@@ -1,0 +1,84 @@
+lastAccountName: TaikiFnit
+timestamps:
+  login: 1501937360266
+  lastteleport: 1501920427385
+  logout: 1501937366476
+ipAddress: 218.41.208.3
+homes:
+  h:
+    world: world
+    x: -135.8820610438059
+    y: 65.0
+    z: -28.689150498015806
+    yaw: 2.1154008
+    pitch: 10.200055
+  dia:
+    world: world
+    x: 259.30000001192093
+    y: 11.0
+    z: -282.60145215907613
+    yaw: -34.188557
+    pitch: 5.399933
+  obsidian:
+    world: world
+    x: 349.30000001192093
+    y: 11.0
+    z: -98.69999998807907
+    yaw: 310.81567
+    pitch: 21.000462
+  villa:
+    world: world
+    x: 5.8401808586968595
+    y: 79.0
+    z: -195.79126714230844
+    yaw: -209.08582
+    pitch: -9.899955
+  flowers:
+    world: world
+    x: 106.15357932592967
+    y: 74.0
+    z: -656.2314074390188
+    yaw: -201.28796
+    pitch: 11.100107
+  casle:
+    world: world_nether
+    x: 240.0281228382435
+    y: 60.0
+    z: 154.37347591593155
+    yaw: -182.08362
+    pitch: 3.1500146
+  cow:
+    world: world
+    x: -117.10956336716393
+    y: 70.0
+    z: -101.58878060987364
+    yaw: -274.782
+    pitch: 25.650093
+  cows:
+    world: world
+    x: 21.214600333581405
+    y: 72.0
+    z: -732.9523479442621
+    yaw: -166.4878
+    pitch: 24.30007
+  s:
+    world: world
+    x: -1268.6590759412218
+    y: 70.0
+    z: -174.38270082645866
+    yaw: 93.46631
+    pitch: 10.650018
+lastlocation:
+  world: world_nether
+  x: 20.550388762372165
+  y: 37.0
+  z: -71.91820154206644
+  yaw: 43.363552
+  pitch: 34.79988
+logoutlocation:
+  world: world
+  x: -577.6190478926965
+  y: 71.0
+  z: -57.83325211194509
+  yaw: 234.72495
+  pitch: 18.000013

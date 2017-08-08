@@ -1,0 +1,13 @@
+[16:24:04] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+[16:24:04] [Server thread/INFO]: Saving...
+[16:24:04] [Server thread/INFO]: Saved the world
+[16:24:14] [Server thread/INFO]: Stopping the server
+[16:24:14] [Server thread/INFO]: Stopping server
+[16:24:14] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
+[16:24:14] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
+[16:24:14] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[16:24:14] [Server thread/INFO]: Saving players
+[16:24:14] [Server thread/INFO]: Saving worlds
+[16:24:14] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:24:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[16:24:14] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

@@ -1,0 +1,9 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+    - TreeAssist.*
+    - Essentials.*
+schema-version: 1
