@@ -1,8 +1,8 @@
 lastAccountName: Donkatz
 timestamps:
-  login: 1503920890680
+  login: 1503932876770
   logout: 1503841338172
-  lastteleport: 1503932498599
+  lastteleport: 1503933247992
 ipAddress: 192.168.0.103
 logoutlocation:
   world: world
@@ -16,8 +16,8 @@ lastlocation:
   x: -122.5
   y: 65.0
   z: -31.5
-  yaw: 218.7873
-  pitch: 24.342072
+  yaw: 212.55023
+  pitch: 24.40807
 homes:
   home:
     world: world
@@ -105,11 +105,11 @@ homes:
     pitch: 27.260212
   cp:
     world: world
-    x: -6642.637820536071
-    y: 89.0
-    z: 22839.22102912301
-    yaw: -13.721924
-    pitch: 40.379345
+    x: -7175.449717414627
+    y: 71.0
+    z: 27164.47242474292
+    yaw: -349.69843
+    pitch: 46.055523
   kodo:
     world: world
     x: -6720.751714538694
@@ -124,3 +124,10 @@ homes:
     z: 18803.714504713935
     yaw: -276.06836
     pitch: 33.152058
+  mura3:
+    world: world
+    x: -6892.962979827762
+    y: 64.0
+    z: 24690.30000001192
+    yaw: 66.1351
+    pitch: 17.378437

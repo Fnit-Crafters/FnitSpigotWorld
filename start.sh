@@ -1,11 +1,11 @@
 #!/bin/bash
  
-USERNAME='taikifnit'
-SERVICE='spigot-1.12.jar'
+USERNAME='fnit'
+SERVICE='spigot-1.12.1.jar'
 SCNAME='spigot'
-SPI_PATH='/home/taikifnit/spigotv1'
+SPI_PATH='/home/fnit/spigotv1'
  
-XMX="2222M"
+XMX="3333M"
 XMS="100M"
  
 cd $SPI_PATH

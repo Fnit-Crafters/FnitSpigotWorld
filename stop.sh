@@ -1,7 +1,7 @@
-USERNAME='taikifnit'
-SERVICE='spigot-1.12.jar'
+USERNAME='fnit'
+SERVICE='spigot-1.12.1.jar'
 SCNAME='spigot'
-SPI_PATH='/home/taikifnit/spigotv1'
+SPI_PATH='/home/fnit/spigotv1'
  
 cd $SPI_PATH
  
