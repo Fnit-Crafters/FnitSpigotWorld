@@ -240,20 +240,20 @@ database:
     ping-interval: 3600
 
     # ...hostname where the database is accessible
-    hostname: ""
+    hostname: "localhost"
 
     # ...port where the database is accessible (default: 3306)
     port: 3306
 
     # ...database you want to use
-    database: ""
+    database: "shopchest"
 
     # ...username you are going to login with
-    username: ""
+    username: "spigot"
 
     # ...password you are going to login with
     # Be careful, as anyone who can read this file, can read the password!
-    password: ""
+    password: "fnifnit"
 
 # Shop limits are handled with permissions.
 # A player with permission "shopchest.limit.X" has a limit of X shops,
@@ -268,4 +268,4 @@ shop-limits:
   # specific permission may have.
   # If you don't want the players to have a limit by default
   # set the value to -1.
-  default: 5
+  default: -1

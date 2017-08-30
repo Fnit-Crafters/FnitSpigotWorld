@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2017-08-29 03:06:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:05:01 +0900"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2017-08-29 03:39:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2017-07-24 00:00:09 +0900"
@@ -1085,6 +1097,7 @@
       "taiga": "2017-07-22 15:30:30 +0900",
       "taiga_hills": "2017-07-22 15:32:09 +0900",
       "birch_forest_hills": "2017-08-28 23:04:21 +0900",
+      "mushroom_island": "2017-08-29 01:31:35 +0900",
       "taiga_cold": "2017-07-22 15:35:02 +0900",
       "ocean": "2017-07-22 15:34:18 +0900",
       "extreme_hills": "2017-07-24 00:24:51 +0900",
@@ -1259,9 +1272,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2017-08-29 03:06:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-08-28 21:21:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2017-08-29 03:40:53 +0900"
     },
     "done": true
   },
@@ -1541,9 +1566,11 @@
       "cooked_porkchop": "2017-08-25 20:15:39 +0900",
       "cooked_mutton": "2017-07-23 16:44:30 +0900",
       "cooked_beef": "2017-07-24 09:39:00 +0900",
+      "apple": "2017-08-29 23:05:35 +0900",
       "poisonous_potato": "2017-08-28 22:53:12 +0900",
       "bread": "2017-07-24 00:15:00 +0900",
       "rotten_flesh": "2017-07-22 16:33:11 +0900",
+      "mushroom_stew": "2017-08-29 03:04:15 +0900",
       "carrot": "2017-07-23 17:08:04 +0900"
     },
     "done": false

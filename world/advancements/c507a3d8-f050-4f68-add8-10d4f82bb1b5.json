@@ -35,9 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2017-08-29 00:52:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2017-08-22 23:50:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2017-08-29 00:52:44 +0900"
     },
     "done": true
   },
@@ -50,6 +62,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2017-08-28 22:54:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2017-08-29 00:52:44 +0900"
     },
     "done": true
   },
@@ -68,6 +86,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-28 23:12:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2017-08-29 00:52:44 +0900"
     },
     "done": true
   },
@@ -344,6 +368,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2017-08-28 23:24:18 +0900",
+      "porkchop": "2017-08-29 01:59:07 +0900",
+      "cooked_cod": "2017-08-29 02:10:30 +0900",
       "rotten_flesh": "2017-08-27 01:36:14 +0900"
     },
     "done": false
@@ -423,6 +449,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2017-08-23 00:10:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2017-08-29 00:57:39 +0900"
     },
     "done": true
   },
@@ -570,6 +602,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_wolf": "2017-08-29 01:59:10 +0900"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-08-22 23:50:18 +0900"
@@ -614,13 +652,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2017-08-29 01:41:01 +0900",
       "deep_ocean": "2017-08-28 21:10:11 +0900",
       "beaches": "2017-08-22 22:10:04 +0900",
       "extreme_hills_with_trees": "2017-08-28 21:44:30 +0900",
+      "ice_mountains": "2017-08-29 01:41:27 +0900",
       "taiga": "2017-08-22 22:10:49 +0900",
       "taiga_hills": "2017-08-22 22:22:42 +0900",
       "ocean": "2017-08-22 22:19:15 +0900",
       "extreme_hills": "2017-08-28 21:42:42 +0900",
+      "cold_beach": "2017-08-29 01:40:39 +0900",
       "river": "2017-08-22 22:18:35 +0900",
       "stone_beach": "2017-08-28 21:42:37 +0900"
     },
@@ -782,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2017-08-29 00:52:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-08-22 22:18:36 +0900"
@@ -875,6 +922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2017-08-29 00:52:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2017-08-22 22:26:27 +0900"
@@ -884,6 +937,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2017-08-28 22:18:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_wolf": "2017-08-29 01:59:10 +0900"
     },
     "done": true
   },
@@ -935,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2017-08-29 00:52:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2017-08-28 23:12:28 +0900"
@@ -956,6 +1021,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2017-08-22 23:50:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2017-08-29 01:47:11 +0900"
     },
     "done": true
   },
