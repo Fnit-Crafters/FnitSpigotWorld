@@ -104,3 +104,43 @@
 [11:53:48] [Server thread/INFO]: TaikiFnit issued server command: /help 16
 [11:54:15] [Server thread/INFO]: TaikiFnit issued server command: /world
 [11:54:21] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[16:25:15] [User Authenticator #5/INFO]: UUID of player villagesea is 5a8e25ba-9ac8-4ce3-9b9d-21706c46e5f0
+[16:25:16] [Server thread/INFO]: villagesea[/122.132.136.176:64121] logged in with entity id 52510 at ([world]-133.30000001192093, 65.0625, -22.32269685097571)
+[16:35:16] [Server thread/WARN]: villagesea moved wrongly!
+[16:36:16] [Server thread/INFO]: villagesea issued server command: /home fnit
+[16:37:24] [Async Chat Thread - #3/INFO]: <TaikiFnit> hi[m
+[16:37:31] [Async Chat Thread - #3/INFO]: <villagesea> ossuossu[m
+[16:39:04] [Server thread/INFO]: villagesea issued server command: /home const
+[16:39:44] [Server thread/INFO]: villagesea issued server command: /
+[16:39:48] [Server thread/INFO]: villagesea issued server command: /fly
+[16:43:31] [Server thread/INFO]: villagesea issued server command: /home villagesea
+[16:46:31] [Server thread/INFO]: villagesea issued server command: /home fnit
+[16:48:11] [Server thread/WARN]: villagesea moved wrongly!
+[16:48:53] [Server thread/INFO]: villagesea issued server command: /home fnit
+[16:58:29] [Server thread/INFO]: villagesea lost connection: Disconnected
+[16:58:29] [Server thread/INFO]: villagesea left the game
+[17:02:24] [Server thread/WARN]: TaikiFnit moved wrongly!
+[17:05:56] [Server thread/WARN]: TaikiFnit moved wrongly!
+[17:19:08] [Craft Scheduler Thread - 950/INFO]: [Vault] Checking for Updates ... 
+[17:19:09] [Craft Scheduler Thread - 950/INFO]: [Vault] No new version available
+[17:24:10] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[17:24:10] [Server thread/INFO]: TaikiFnit left the game
+[18:02:46] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+[18:02:46] [Server thread/INFO]: Saving...
+[18:02:46] [Server thread/INFO]: Saved the world
+[18:02:56] [Server thread/INFO]: Stopping the server
+[18:02:56] [Server thread/INFO]: Stopping server
+[18:02:56] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
+[18:02:56] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[18:02:56] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
+[18:02:56] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[18:02:56] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
+[18:02:56] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
+[18:02:56] [Server thread/INFO]: [Craftconomy3] Disabling Craftconomy3 v3.3.1-d99cf63-trv200
+[18:02:56] [Server thread/INFO]: [Craftconomy3] Closing the connection to the database.
+[18:02:56] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[18:02:56] [Server thread/INFO]: Saving players
+[18:02:56] [Server thread/INFO]: Saving worlds
+[18:02:56] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:02:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[18:02:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
