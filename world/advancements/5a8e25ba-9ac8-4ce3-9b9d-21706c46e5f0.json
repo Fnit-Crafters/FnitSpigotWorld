@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2017-08-31 15:25:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2017-07-22 19:33:23 +0900"
@@ -398,6 +404,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2017-07-23 16:24:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2017-08-31 15:25:17 +0900"
     },
     "done": true
   },
@@ -598,6 +610,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-23 16:24:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2017-08-31 19:41:10 +0900"
     },
     "done": true
   },
@@ -1631,6 +1649,8 @@
     "criteria": {
       "cooked_mutton": "2017-07-23 16:33:23 +0900",
       "cooked_beef": "2017-07-29 17:41:24 +0900",
+      "beef": "2017-09-01 01:35:43 +0900",
+      "apple": "2017-09-03 11:01:16 +0900",
       "bread": "2017-08-20 00:36:22 +0900",
       "cooked_chicken": "2017-07-23 16:11:07 +0900",
       "mushroom_stew": "2017-08-29 01:32:49 +0900"
@@ -1973,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2017-08-31 15:28:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2017-07-23 16:03:26 +0900"
@@ -2123,6 +2149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2017-09-03 00:29:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 16:03:26 +0900"
@@ -2258,6 +2290,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2017-08-26 02:26:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-08-31 19:41:10 +0900"
     },
     "done": true
   },
@@ -2399,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2017-08-31 19:41:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-07-23 16:32:23 +0900"
@@ -2435,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2017-08-31 19:41:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2017-08-21 01:55:39 +0900"
@@ -2462,6 +2512,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_sheep": "2017-08-25 23:11:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-08-31 19:41:10 +0900"
     },
     "done": true
   },

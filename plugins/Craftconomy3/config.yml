@@ -3,14 +3,14 @@ System:
   QuickSetup:
     Enable: false
     Currency:
-      Name: Fnit
-      NamePlural: Fnits
-      Minor: FCoin
-      MinorPlural: FCoins
-      Sign: F
+      Name: fDollar
+      NamePlural: fDollars
+      Minor: fCoin
+      MinorPlural: fCoins
+      Sign: f$
     StartBalance: 100.0
     PriceBank: 200.0
-    DisplayMode: long
+    DisplayMode: majoronly
   CheckNewVersion: true
   Case-sentitive: false
   CreateOnLogin: false

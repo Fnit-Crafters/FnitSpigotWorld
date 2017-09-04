@@ -31,7 +31,7 @@ Main:
   Ignore User Placed Blocks: false
   Initial Delay: false
   Language: en
-  Sapling Replant: true
+  Sapling Replant: false
   Toggle Default: false
   Use mcMMO if Available: true
   Use Permissions: false

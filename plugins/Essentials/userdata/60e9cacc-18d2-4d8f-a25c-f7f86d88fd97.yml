@@ -1,17 +1,17 @@
 lastAccountName: TaikiFnit
 timestamps:
-  login: 1504060847227
-  lastteleport: 1504061661315
-  logout: 1504081450599
-ipAddress: 192.168.0.103
+  login: 1504517252135
+  lastteleport: 1504422573649
+  logout: 1504517266205
+ipAddress: 61.207.67.152
 homes:
   h:
     world: world
-    x: -135.8820610438059
+    x: -132.96251419271147
     y: 65.0
-    z: -28.689150498015806
-    yaw: 2.1154008
-    pitch: 10.200055
+    z: -24.69826774260873
+    yaw: 269.1148
+    pitch: 15.150068
   dia:
     world: world
     x: 259.30000001192093
@@ -180,18 +180,39 @@ homes:
     z: 39748.10435062506
     yaw: -38.59424
     pitch: 18.578384
+  underthetown:
+    world: world
+    x: -219.6273601948439
+    y: 11.0
+    z: 94.0943555128465
+    yaw: -3.0021973
+    pitch: 4.0500345
+  vil:
+    world: world
+    x: 5.35158700828751
+    y: 78.0
+    z: -231.24981554204788
+    yaw: 175.80896
+    pitch: 32.699955
+  guild:
+    world: world
+    x: -176.28661833478822
+    y: 75.0
+    z: -118.06774081358971
+    yaw: 181.21307
+    pitch: 15.300063
 lastlocation:
-  world: world_nether
-  x: -14.5
-  y: 82.0
-  z: -0.5
-  yaw: 0.0
-  pitch: 0.0
+  world: world
+  x: -130.27759639029756
+  y: 65.0
+  z: -24.267561124753808
+  yaw: 188.26485
+  pitch: 15.000067
 logoutlocation:
   world: world
-  x: -122.5
+  x: -126.58736596975181
   y: 65.0
-  z: -24.5
-  yaw: -93.73483
-  pitch: 35.850006
+  z: -25.435123120635264
+  yaw: -46.48639
+  pitch: 11.999999
 money: '750.0'
