@@ -143,10 +143,26 @@ overridden-commands:
 disabled-commands:
 #  - nick
   - clear
-  - gamemode
-  - give
+    #- gamemode
+    #- give
   - kick
   - kill
+  - spawnpoint
+  - time
+  - enchant
+  - weather
+  - toggledownfall
+  - xp
+  - exp
+  - stop
+  - op
+  - deop
+  - whitelist
+  - save-all
+  - save-on
+  - save-off
+  - ban
+
 
 # These commands will be shown to players with socialSpy enabled.
 # You can add commands from other plugins you may want to track or

@@ -263,6 +263,18 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-09-09 23:59:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-08-25 20:29:58 +0900"
@@ -419,11 +431,13 @@
       "chicken": "2017-09-02 00:08:14 +0900",
       "cooked_mutton": "2017-09-03 00:29:39 +0900",
       "cooked_beef": "2017-08-28 20:54:31 +0900",
+      "chorus_fruit": "2017-09-10 00:02:49 +0900",
       "beef": "2017-09-01 01:14:21 +0900",
       "potato": "2017-08-29 15:28:30 +0900",
       "rabbit": "2017-08-25 21:27:06 +0900",
       "mutton": "2017-08-31 15:15:16 +0900",
       "bread": "2017-08-31 00:40:47 +0900",
+      "cooked_chicken": "2017-09-09 23:21:41 +0900",
       "carrot": "2017-08-28 21:35:48 +0900"
     },
     "done": false
@@ -497,6 +511,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2017-08-25 21:11:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },
@@ -646,6 +666,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2017-08-25 21:11:09 +0900"
@@ -655,6 +681,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2017-08-28 21:04:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },
@@ -874,6 +906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2017-08-25 20:27:17 +0900"
@@ -892,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-08-25 20:54:40 +0900"
@@ -907,6 +951,18 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2017-08-31 21:20:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2017-09-09 23:25:47 +0900"
     },
     "done": true
   },
@@ -968,6 +1024,7 @@
     "criteria": {
       "zombie_pigman": "2017-08-29 14:47:51 +0900",
       "stray": "2017-08-25 20:44:00 +0900",
+      "shulker": "2017-09-09 23:51:11 +0900",
       "wither_skeleton": "2017-08-29 14:51:02 +0900",
       "zombie_villager": "2017-08-28 23:34:32 +0900",
       "magma_cube": "2017-08-29 14:53:32 +0900",
@@ -1012,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2017-08-31 00:15:08 +0900"
@@ -1039,6 +1102,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2017-09-02 00:43:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },
@@ -1126,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-09-09 22:43:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2017-08-28 23:25:18 +0900"
@@ -1135,6 +1210,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-09-02 00:43:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },
@@ -1207,6 +1288,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-08-28 21:04:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-09-09 23:07:48 +0900"
     },
     "done": true
   },
@@ -1285,6 +1372,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-08-29 00:40:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2017-09-09 23:26:59 +0900"
     },
     "done": true
   },
@@ -1642,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2017-09-09 23:49:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2017-08-31 01:21:50 +0900"
@@ -1663,6 +1762,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-08-25 20:54:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },
@@ -1797,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2017-08-28 21:30:50 +0900"
@@ -1917,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2017-09-09 23:27:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-08-25 21:11:09 +0900"
@@ -1971,9 +2088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2017-09-09 23:51:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2017-08-31 00:13:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-09-09 23:07:48 +0900"
     },
     "done": true
   },
@@ -2085,6 +2220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2017-08-25 21:36:30 +0900"
@@ -2136,6 +2277,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2017-09-02 18:46:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2017-09-05 17:42:06 +0900"
     },
     "done": true
   },

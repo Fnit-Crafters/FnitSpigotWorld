@@ -1,23 +1,23 @@
 lastAccountName: tukasasa
 timestamps:
-  login: 1504453974652
-  logout: 1504456357559
-  lastteleport: 1504455839632
+  login: 1505389064575
+  logout: 1505390666875
+  lastteleport: 1505389332388
 ipAddress: 124.208.114.93
 lastlocation:
   world: world
-  x: -153.5
-  y: 72.5
-  z: -67.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -134.82075780295696
+  y: 66.0
+  z: -134.3579563623429
+  yaw: 107.70336
+  pitch: 7.949704
 logoutlocation:
   world: world
-  x: -152.15626512678966
-  y: 66.90290000319482
-  z: -119.78160036001978
-  yaw: -211.16214
-  pitch: 40.049988
+  x: -330.27704796927804
+  y: 53.0
+  z: -62.06250822101414
+  yaw: 172.20172
+  pitch: 52.34992
 homes:
   home:
     world: world

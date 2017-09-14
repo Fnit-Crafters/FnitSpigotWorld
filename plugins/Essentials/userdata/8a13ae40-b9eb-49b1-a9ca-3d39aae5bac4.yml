@@ -1,16 +1,16 @@
 lastAccountName: nedo18
 timestamps:
-  login: 1503926669373
+  login: 1505384075717
   logout: 1503928142991
-  lastteleport: 1503928113661
+  lastteleport: 1505400480562
 ipAddress: 60.90.60.226
 lastlocation:
   world: world
-  x: -120.44366489371728
+  x: -128.20270509258347
   y: 65.0
-  z: -16.601695721236457
-  yaw: -178.18396
-  pitch: 9.900062
+  z: -24.451823171118004
+  yaw: -285.2847
+  pitch: 17.70005
 homes:
   mura:
     world: world
@@ -40,6 +40,27 @@ homes:
     z: -26.807852201038653
     yaw: -348.58466
     pitch: 21.00005
+  create:
+    world: world
+    x: 57.155582469848014
+    y: 63.0
+    z: -161.37671149476924
+    yaw: -337.3401
+    pitch: 9.599998
+  shop:
+    world: world
+    x: -32.54207301739861
+    y: 69.0
+    z: -186.75424207404978
+    yaw: 87.30884
+    pitch: 21.449987
+  mining:
+    world: world
+    x: -212.15100980083
+    y: 11.0
+    z: 45.290294134338595
+    yaw: -16.092377
+    pitch: 3.4499977
 logoutlocation:
   world: world
   x: -201.45615064244058

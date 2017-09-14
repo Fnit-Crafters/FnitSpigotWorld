@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-09-14 23:29:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2017-07-24 00:02:25 +0900"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-09-14 15:22:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2017-07-22 17:37:00 +0900"
@@ -194,6 +206,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-09-10 00:00:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-07-22 15:52:22 +0900"
@@ -203,6 +221,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2017-07-22 15:58:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2017-09-09 23:53:14 +0900"
     },
     "done": true
   },
@@ -341,6 +365,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2017-07-23 23:37:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-09-14 23:44:46 +0900"
     },
     "done": true
   },
@@ -563,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2017-09-09 23:17:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2017-07-22 15:50:09 +0900"
@@ -587,6 +623,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2017-09-09 23:12:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2017-09-14 03:40:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2017-07-23 17:01:23 +0900"
@@ -602,6 +650,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-09-02 22:58:04 +0900",
+      "shulker": "2017-09-09 23:49:03 +0900",
       "wither_skeleton": "2017-07-29 18:45:31 +0900",
       "zombie_villager": "2017-07-22 16:45:01 +0900",
       "magma_cube": "2017-08-05 17:02:28 +0900",
@@ -610,6 +659,8 @@
       "blaze": "2017-07-29 18:32:51 +0900",
       "evoker": "2017-08-28 23:16:21 +0900",
       "zombie": "2017-07-22 15:57:19 +0900",
+      "silverfish": "2017-09-09 23:02:14 +0900",
+      "cave_spider": "2017-09-10 15:15:01 +0900",
       "witch": "2017-07-24 15:05:21 +0900",
       "guardian": "2017-08-28 21:16:15 +0900",
       "spider": "2017-07-23 17:12:51 +0900",
@@ -703,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2017-09-09 22:42:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2017-07-22 17:37:00 +0900"
@@ -742,6 +799,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2017-07-29 18:32:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-09-09 23:08:04 +0900"
     },
     "done": true
   },
@@ -1123,6 +1186,7 @@
       "plains": "2017-07-24 00:12:59 +0900",
       "jungle_hills": "2017-08-28 22:39:39 +0900",
       "jungle_edge": "2017-08-28 22:44:35 +0900",
+      "savanna": "2017-09-10 15:41:45 +0900",
       "mesa_clear_rock": "2017-07-29 21:08:26 +0900",
       "ice_mountains": "2017-07-22 15:34:03 +0900",
       "taiga": "2017-07-22 15:30:30 +0900",
@@ -1156,6 +1220,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2017-07-29 18:41:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2017-09-09 23:53:14 +0900"
     },
     "done": true
   },
@@ -1279,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2017-09-10 00:11:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2017-07-30 11:12:17 +0900"
@@ -1294,6 +1370,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2017-07-29 20:19:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2017-09-09 23:49:05 +0900"
     },
     "done": true
   },
@@ -1550,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2017-09-14 04:08:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2017-08-24 23:02:26 +0900"
@@ -1616,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2017-09-14 23:45:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2017-07-25 02:58:15 +0900"
@@ -1639,10 +1733,12 @@
       "cooked_porkchop": "2017-08-25 20:15:39 +0900",
       "cooked_mutton": "2017-07-23 16:44:30 +0900",
       "cooked_beef": "2017-07-24 09:39:00 +0900",
+      "chorus_fruit": "2017-09-09 23:45:52 +0900",
       "apple": "2017-08-29 23:05:35 +0900",
       "poisonous_potato": "2017-08-28 22:53:12 +0900",
       "bread": "2017-07-24 00:15:00 +0900",
       "rotten_flesh": "2017-07-22 16:33:11 +0900",
+      "cooked_chicken": "2017-09-13 22:19:10 +0900",
       "mushroom_stew": "2017-08-29 03:04:15 +0900",
       "carrot": "2017-07-23 17:08:04 +0900"
     },
@@ -1690,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2017-09-14 15:22:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2017-07-23 16:58:55 +0900"
@@ -1723,6 +1825,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-07-23 23:35:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2017-09-14 23:57:43 +0900"
     },
     "done": true
   },
@@ -1981,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2017-09-09 22:45:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-07-23 16:20:09 +0900"
@@ -1996,6 +2110,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:05:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2017-09-09 22:45:29 +0900"
     },
     "done": true
   },
@@ -2020,6 +2140,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2017-07-22 17:37:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2017-09-14 20:17:35 +0900"
     },
     "done": true
   },
@@ -2167,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2017-09-09 23:46:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-07-23 17:05:01 +0900"
@@ -2227,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-09-14 23:29:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2017-07-22 15:56:29 +0900"
@@ -2275,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2017-09-09 23:12:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-07-22 15:52:26 +0900"
@@ -2299,6 +2443,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2017-09-09 23:48:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2017-09-15 00:00:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2017-07-29 18:32:52 +0900"
@@ -2317,6 +2473,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2017-09-09 23:41:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log2": "2017-08-25 20:39:04 +0900"
@@ -2326,6 +2488,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2017-07-24 11:18:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2017-09-14 21:50:26 +0900"
     },
     "done": true
   },
@@ -2407,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2017-09-09 23:12:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2017-07-22 16:03:45 +0900"
@@ -2437,9 +2611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2017-09-09 23:53:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:05:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2017-09-09 23:12:20 +0900"
     },
     "done": true
   },
@@ -2452,6 +2638,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-07-23 16:20:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-09-09 23:08:04 +0900"
     },
     "done": true
   },
@@ -2470,6 +2662,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_chicken": "2017-07-22 16:29:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2017-09-09 23:12:20 +0900"
     },
     "done": true
   },
@@ -2524,6 +2722,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_netherbrick": "2017-07-29 18:56:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2017-09-14 03:35:23 +0900"
     },
     "done": true
   },
