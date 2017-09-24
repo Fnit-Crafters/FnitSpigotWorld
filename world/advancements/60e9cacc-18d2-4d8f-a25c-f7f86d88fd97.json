@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2017-09-22 22:12:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2017-07-22 15:52:22 +0900"
@@ -344,9 +350,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2017-09-22 22:12:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2017-07-23 20:30:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2017-09-20 19:40:09 +0900"
     },
     "done": true
   },
@@ -515,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-17 23:10:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-22 17:37:00 +0900"
@@ -650,6 +674,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2017-09-02 22:58:04 +0900",
+      "stray": "2017-09-20 21:47:49 +0900",
       "shulker": "2017-09-09 23:49:03 +0900",
       "wither_skeleton": "2017-07-29 18:45:31 +0900",
       "zombie_villager": "2017-07-22 16:45:01 +0900",
@@ -841,6 +866,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-07-22 17:37:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2017-09-15 00:55:20 +0900"
     },
     "done": true
   },
@@ -1397,6 +1428,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-17 23:10:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2017-09-22 22:12:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2017-08-28 21:21:15 +0900"
@@ -1560,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-17 23:10:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2017-07-24 11:00:57 +0900"
@@ -1620,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-17 23:10:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2017-07-22 15:49:59 +0900"
@@ -1671,6 +1726,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-07-22 15:52:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2017-09-15 00:59:32 +0900"
     },
     "done": true
   },
@@ -1735,7 +1796,10 @@
       "cooked_beef": "2017-07-24 09:39:00 +0900",
       "chorus_fruit": "2017-09-09 23:45:52 +0900",
       "apple": "2017-08-29 23:05:35 +0900",
+      "cooked_cod": "2017-09-15 02:46:54 +0900",
       "poisonous_potato": "2017-08-28 22:53:12 +0900",
+      "melon": "2017-09-23 23:22:04 +0900",
+      "pumpkin_pie": "2017-09-15 01:40:33 +0900",
       "bread": "2017-07-24 00:15:00 +0900",
       "rotten_flesh": "2017-07-22 16:33:11 +0900",
       "cooked_chicken": "2017-09-13 22:19:10 +0900",
@@ -1900,6 +1964,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2017-07-22 16:03:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2017-09-15 00:22:10 +0900"
     },
     "done": true
   },
@@ -2551,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2017-09-21 23:02:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2017-07-22 15:32:15 +0900"
@@ -2692,6 +2768,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-07-22 15:56:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-09-17 23:10:28 +0900"
     },
     "done": true
   },

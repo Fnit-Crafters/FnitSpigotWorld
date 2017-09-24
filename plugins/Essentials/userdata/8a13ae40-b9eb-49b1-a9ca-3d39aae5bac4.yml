@@ -1,7 +1,7 @@
 lastAccountName: nedo18
 timestamps:
-  login: 1505384075717
-  logout: 1503928142991
+  login: 1505401747138
+  logout: 1505404341283
   lastteleport: 1505400480562
 ipAddress: 60.90.60.226
 lastlocation:
@@ -63,8 +63,8 @@ homes:
     pitch: 3.4499977
 logoutlocation:
   world: world
-  x: -201.45615064244058
+  x: -200.43348922995713
   y: 7.0
-  z: 85.8541397297333
-  yaw: -103.36981
-  pitch: 1.9499462
+  z: 86.1897529712813
+  yaw: -132.3193
+  pitch: -6.450043

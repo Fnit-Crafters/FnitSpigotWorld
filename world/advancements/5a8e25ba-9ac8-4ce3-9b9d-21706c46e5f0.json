@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2017-09-15 00:20:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2017-08-18 23:27:06 +0900"
@@ -1704,14 +1710,30 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2017-09-14 03:47:49 +0900",
+      "chicken": "2017-09-21 01:56:09 +0900",
       "cooked_mutton": "2017-07-23 16:33:23 +0900",
       "cooked_beef": "2017-07-29 17:41:24 +0900",
       "chorus_fruit": "2017-09-09 23:44:06 +0900",
       "beef": "2017-09-01 01:35:43 +0900",
+      "porkchop": "2017-09-21 01:56:23 +0900",
+      "clownfish": "2017-09-21 01:55:03 +0900",
       "apple": "2017-09-03 11:01:16 +0900",
+      "spider_eye": "2017-09-21 01:54:18 +0900",
+      "potato": "2017-09-21 01:56:57 +0900",
+      "cooked_cod": "2017-09-21 01:55:16 +0900",
+      "rabbit": "2017-09-21 01:56:47 +0900",
+      "melon": "2017-09-21 01:57:49 +0900",
+      "pufferfish": "2017-09-21 01:55:08 +0900",
       "bread": "2017-08-20 00:36:22 +0900",
+      "golden_apple": "2017-09-21 02:06:14 +0900",
+      "cookie": "2017-09-21 01:58:58 +0900",
+      "rotten_flesh": "2017-09-21 01:54:32 +0900",
+      "raw_cod": "2017-09-21 01:54:59 +0900",
+      "golden_carrot": "2017-09-21 01:59:46 +0900",
+      "beetroot": "2017-09-21 01:57:00 +0900",
       "cooked_chicken": "2017-07-23 16:11:07 +0900",
-      "mushroom_stew": "2017-08-29 01:32:49 +0900"
+      "mushroom_stew": "2017-08-29 01:32:49 +0900",
+      "carrot": "2017-09-20 17:41:10 +0900"
     },
     "done": false
   },
@@ -2246,6 +2268,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2017-07-29 18:38:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2017-09-16 01:00:06 +0900"
     },
     "done": true
   },
