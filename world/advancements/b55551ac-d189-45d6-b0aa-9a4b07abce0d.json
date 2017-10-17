@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-09-27 16:34:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2017-09-02 23:35:06 +0900"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2017-09-02 22:20:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-24 23:51:41 +0900"
     },
     "done": true
   },
@@ -218,6 +230,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2017-09-18 14:08:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-24 23:51:41 +0900"
     },
     "done": true
   },
@@ -359,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2017-10-01 19:13:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2017-09-17 20:16:13 +0900"
@@ -374,6 +398,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2017-09-02 22:14:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2017-09-27 16:36:15 +0900"
     },
     "done": true
   },
@@ -536,6 +566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2017-09-27 16:36:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-09-02 22:33:48 +0900"
@@ -551,6 +587,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-09-21 00:26:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2017-09-27 16:36:15 +0900"
     },
     "done": true
   },
@@ -664,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-24 23:51:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2017-09-18 00:00:18 +0900"
@@ -727,6 +775,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2017-09-02 23:10:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2017-10-01 19:03:43 +0900"
     },
     "done": true
   },
@@ -874,6 +928,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2017-09-24 23:11:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2017-10-01 19:13:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-09-21 00:26:23 +0900"
@@ -891,7 +957,9 @@
       "zombie_pigman": "2017-09-20 23:56:29 +0900",
       "zombie_villager": "2017-09-03 01:48:14 +0900",
       "skeleton": "2017-09-02 22:29:49 +0900",
+      "husk": "2017-09-30 00:51:16 +0900",
       "zombie": "2017-09-02 22:25:12 +0900",
+      "cave_spider": "2017-09-24 23:45:22 +0900",
       "witch": "2017-09-03 03:20:36 +0900",
       "spider": "2017-09-02 22:51:20 +0900",
       "ghast": "2017-09-21 19:16:16 +0900",
@@ -1230,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2017-09-27 15:10:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2017-09-21 00:26:23 +0900"
@@ -1245,6 +1319,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2017-09-17 20:16:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-09-27 16:34:27 +0900"
     },
     "done": true
   },
@@ -1314,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2017-10-01 19:13:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2017-09-17 23:27:00 +0900"
@@ -1341,6 +1427,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2017-09-03 00:19:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2017-09-24 23:11:01 +0900"
     },
     "done": true
   },
@@ -1537,19 +1629,28 @@
       "taiga_cold_hills": "2017-09-21 02:19:35 +0900",
       "forest": "2017-09-02 23:13:05 +0900",
       "mesa_rock": "2017-09-18 13:50:37 +0900",
+      "swampland": "2017-09-30 01:02:39 +0900",
+      "birch_forest": "2017-09-30 00:43:55 +0900",
       "deep_ocean": "2017-09-02 22:36:22 +0900",
       "beaches": "2017-09-02 21:36:35 +0900",
+      "extreme_hills_with_trees": "2017-09-30 00:45:12 +0900",
+      "desert_hills": "2017-09-30 00:51:30 +0900",
       "mesa": "2017-09-10 01:55:30 +0900",
       "forest_hills": "2017-09-02 23:15:48 +0900",
       "plains": "2017-09-03 00:40:45 +0900",
+      "mesa_clear_rock": "2017-09-30 00:50:48 +0900",
       "ice_mountains": "2017-09-21 02:18:19 +0900",
       "taiga": "2017-09-02 21:35:32 +0900",
       "taiga_hills": "2017-09-02 21:36:45 +0900",
+      "birch_forest_hills": "2017-09-30 00:43:59 +0900",
       "taiga_cold": "2017-09-21 02:16:27 +0900",
       "ocean": "2017-09-02 21:36:37 +0900",
+      "extreme_hills": "2017-09-30 00:45:11 +0900",
+      "roofed_forest": "2017-09-30 00:43:20 +0900",
       "cold_beach": "2017-09-21 02:16:36 +0900",
       "river": "2017-09-02 21:37:46 +0900",
-      "desert": "2017-09-10 01:55:23 +0900"
+      "desert": "2017-09-10 01:55:23 +0900",
+      "stone_beach": "2017-09-30 00:45:10 +0900"
     },
     "done": false
   },
@@ -1562,6 +1663,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2017-09-03 00:58:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2017-09-27 17:21:38 +0900"
     },
     "done": true
   },
@@ -1727,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-09-24 23:51:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2017-09-03 03:08:34 +0900"
@@ -1748,6 +1861,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2017-09-02 22:11:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-09-24 23:51:41 +0900"
     },
     "done": true
   },

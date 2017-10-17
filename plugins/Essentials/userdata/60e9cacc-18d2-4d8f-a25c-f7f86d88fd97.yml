@@ -1,9 +1,9 @@
 lastAccountName: TaikiFnit
 timestamps:
-  login: 1506228989609
-  lastteleport: 1506203966694
-  logout: 1506228992177
-ipAddress: 116.67.161.66
+  login: 1506856702270
+  lastteleport: 1506865128857
+  logout: 1506865182671
+ipAddress: 192.168.0.104
 homes:
   h:
     world: world
@@ -63,11 +63,11 @@ homes:
     pitch: 24.30007
   kituya:
     world: world
-    x: -575.7097472284162
-    y: 74.0
-    z: -63.36145071644562
-    yaw: 252.2752
-    pitch: 41.850075
+    x: -31.701910911442567
+    y: 69.0
+    z: -231.1262709791686
+    yaw: 104.86438
+    pitch: 30.609083
   vi:
     world: world
     x: -36.3282527228505
@@ -357,16 +357,16 @@ homes:
     pitch: 6.75007
 lastlocation:
   world: world
-  x: -220.30000001192093
-  y: 10.0
-  z: 24.69999998807907
-  yaw: -95.47139
-  pitch: 35.575077
+  x: 39.55998031863503
+  y: 70.0
+  z: -132.82329141532463
+  yaw: 137.11415
+  pitch: 29.400064
 logoutlocation:
   world: world
-  x: 36.96712190501092
-  y: 70.0
-  z: -136.7322297310371
-  yaw: 234.88739
-  pitch: 9.600034
+  x: -32.69999998807907
+  y: 73.03070778223574
+  z: -209.49412990700543
+  yaw: 71.71338
+  pitch: 29.109041
 money: '750.0'

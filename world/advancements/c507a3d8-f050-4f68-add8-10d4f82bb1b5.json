@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2017-10-03 00:37:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2017-08-22 22:16:32 +0900"
@@ -396,6 +402,7 @@
       "porkchop": "2017-08-29 01:59:07 +0900",
       "apple": "2017-09-02 17:59:03 +0900",
       "cooked_cod": "2017-08-29 02:10:30 +0900",
+      "mutton": "2017-10-03 00:43:59 +0900",
       "bread": "2017-09-02 18:27:07 +0900",
       "rotten_flesh": "2017-08-27 01:36:14 +0900"
     },
@@ -494,6 +501,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2017-08-22 22:12:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2017-10-03 00:37:09 +0900"
     },
     "done": true
   },
@@ -900,6 +913,8 @@
       "zombie_villager": "2017-08-27 02:52:28 +0900",
       "magma_cube": "2017-09-20 23:41:31 +0900",
       "skeleton": "2017-08-22 23:05:10 +0900",
+      "husk": "2017-10-03 00:27:17 +0900",
+      "blaze": "2017-09-25 01:34:15 +0900",
       "zombie": "2017-08-22 22:24:40 +0900",
       "witch": "2017-09-04 01:08:45 +0900",
       "spider": "2017-08-27 01:52:47 +0900",
@@ -1118,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2017-09-25 01:35:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2017-09-14 00:09:52 +0900"
@@ -1235,6 +1256,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2017-09-02 03:13:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2017-10-03 00:37:09 +0900"
     },
     "done": true
   },
@@ -1526,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2017-09-25 01:35:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2017-08-28 22:18:39 +0900"
@@ -1565,6 +1598,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2017-09-20 23:36:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2017-09-25 01:35:26 +0900"
     },
     "done": true
   },
