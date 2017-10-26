@@ -1,59 +1,24 @@
-[04:45:45] [Craft Scheduler Thread - 134529/INFO]: [Vault] Checking for Updates ... 
-[04:45:46] [Craft Scheduler Thread - 134529/INFO]: [Vault] No new version available
-[10:38:41] [Server thread/ERROR]: Could not pass event EntityDeathEvent to DropMoney v0.0.1
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:499) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callEntityDeathEvent(CraftEventFactory.java:394) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.die(EntityLiving.java:1109) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityTameableAnimal.die(SourceFile:213) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.damageEntity(EntityLiving.java:951) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityWolf.damageEntity(EntityWolf.java:231) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.e(EntityLiving.java:1204) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.Block.fallOn(Block.java:533) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.Entity.a(Entity.java:1026) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:190) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.Entity.move(Entity.java:808) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.a(EntityLiving.java:1806) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.n(EntityLiving.java:2117) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityInsentient.n(EntityInsentient.java:507) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityAgeable.n(EntityAgeable.java:158) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityAnimal.n(EntityAnimal.java:27) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityWolf.n(EntityWolf.java:152) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityLiving.B_(EntityLiving.java:1939) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityInsentient.B_(EntityInsentient.java:246) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.EntityWolf.B_(EntityWolf.java:167) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.World.entityJoinedWorld(World.java:1643) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.World.h(World.java:1613) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.World.tickEntities(World.java:1437) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.WorldServer.tickEntities(WorldServer.java:665) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:817) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
-Caused by: java.lang.NullPointerException
-[10:46:01] [Craft Scheduler Thread - 136426/INFO]: [Vault] Checking for Updates ... 
-[10:46:02] [Craft Scheduler Thread - 136426/INFO]: [Vault] No new version available
-[11:41:18] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
-[11:41:18] [Server thread/INFO]: Saving...
-[11:41:18] [Server thread/INFO]: Saved the world
-[11:41:28] [Server thread/INFO]: Stopping the server
-[11:41:28] [Server thread/INFO]: Stopping server
-[11:41:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
-[11:41:28] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
-[11:41:28] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
-[11:41:28] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[11:41:28] [Server thread/INFO]: [DropMoney] Disabling DropMoney v0.0.1
-[11:41:28] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
-[11:41:28] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
-[11:41:29] [Server thread/INFO]: [Craftconomy3] Disabling Craftconomy3 v3.3.1-d99cf63-trv200
-[11:41:29] [Server thread/INFO]: [Craftconomy3] Closing the connection to the database.
-[11:41:29] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[11:41:29] [Server thread/INFO]: Saving players
-[11:41:29] [Server thread/INFO]: Saving worlds
-[11:41:29] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[11:41:29] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[11:41:29] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[04:29:22] [Craft Scheduler Thread - 2084/INFO]: [Vault] Checking for Updates ... 
+[04:29:23] [Craft Scheduler Thread - 2084/INFO]: [Vault] No new version available
+[10:29:35] [Craft Scheduler Thread - 2145/INFO]: [Vault] Checking for Updates ... 
+[10:29:36] [Craft Scheduler Thread - 2145/INFO]: [Vault] No new version available
+[10:50:03] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+[10:50:03] [Server thread/INFO]: Saving...
+[10:50:03] [Server thread/INFO]: Saved the world
+[10:50:13] [Server thread/INFO]: Stopping the server
+[10:50:13] [Server thread/INFO]: Stopping server
+[10:50:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
+[10:50:13] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[10:50:13] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
+[10:50:13] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[10:50:13] [Server thread/INFO]: [DropMoney] Disabling DropMoney v0.0.1
+[10:50:13] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
+[10:50:13] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
+[10:50:13] [Server thread/INFO]: [Craftconomy3] Disabling Craftconomy3 v3.3.1-d99cf63-trv200
+[10:50:13] [Server thread/INFO]: [Craftconomy3] Closing the connection to the database.
+[10:50:13] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[10:50:13] [Server thread/INFO]: Saving players
+[10:50:13] [Server thread/INFO]: Saving worlds
+[10:50:13] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[10:50:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[10:50:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
