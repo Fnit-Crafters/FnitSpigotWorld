@@ -1,24 +1,12 @@
-[04:29:22] [Craft Scheduler Thread - 2084/INFO]: [Vault] Checking for Updates ... 
-[04:29:23] [Craft Scheduler Thread - 2084/INFO]: [Vault] No new version available
-[10:29:35] [Craft Scheduler Thread - 2145/INFO]: [Vault] Checking for Updates ... 
-[10:29:36] [Craft Scheduler Thread - 2145/INFO]: [Vault] No new version available
-[10:50:03] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
-[10:50:03] [Server thread/INFO]: Saving...
-[10:50:03] [Server thread/INFO]: Saved the world
-[10:50:13] [Server thread/INFO]: Stopping the server
-[10:50:13] [Server thread/INFO]: Stopping server
-[10:50:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
-[10:50:13] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
-[10:50:13] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
-[10:50:13] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[10:50:13] [Server thread/INFO]: [DropMoney] Disabling DropMoney v0.0.1
-[10:50:13] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
-[10:50:13] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
-[10:50:13] [Server thread/INFO]: [Craftconomy3] Disabling Craftconomy3 v3.3.1-d99cf63-trv200
-[10:50:13] [Server thread/INFO]: [Craftconomy3] Closing the connection to the database.
-[10:50:13] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[10:50:13] [Server thread/INFO]: Saving players
-[10:50:13] [Server thread/INFO]: Saving worlds
-[10:50:13] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[10:50:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[10:50:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[01:38:52] [Craft Scheduler Thread - 615/INFO]: [Vault] Checking for Updates ... 
+[01:38:53] [Craft Scheduler Thread - 615/INFO]: [Vault] No new version available
+[07:39:10] [Craft Scheduler Thread - 676/INFO]: [Vault] Checking for Updates ... 
+[07:39:10] [Craft Scheduler Thread - 676/INFO]: [Vault] No new version available
+[13:39:27] [Craft Scheduler Thread - 737/INFO]: [Vault] Checking for Updates ... 
+[13:39:29] [Craft Scheduler Thread - 737/INFO]: [Vault] No new version available
+[13:55:23] [Thread-3/INFO]: Stopping server
+[13:55:23] [Thread-3/INFO]: Saving players
+[13:55:23] [Thread-3/INFO]: Saving worlds
+[13:55:23] [Thread-3/INFO]: Saving chunks for level 'world'/overworld
+[13:55:23] [Thread-3/INFO]: Saving chunks for level 'world_nether'/the_nether
+[13:55:23] [Thread-3/INFO]: Saving chunks for level 'world_the_end'/the_end
