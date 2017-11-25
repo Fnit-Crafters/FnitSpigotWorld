@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2017-11-26 02:49:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2017-09-20 21:08:55 +0900"
@@ -596,6 +602,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_sheep": "2017-11-26 02:55:30 +0900",
       "bred_wolf": "2017-08-29 01:59:10 +0900"
     },
     "done": false
@@ -998,6 +1005,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-09-02 17:54:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2017-11-26 02:49:31 +0900"
     },
     "done": true
   },
@@ -1610,6 +1623,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2017-08-22 22:27:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2017-11-26 02:49:31 +0900"
     },
     "done": true
   },
