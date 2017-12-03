@@ -1,42 +1,20 @@
-[00:01:20] [Server thread/INFO]: nedo18 issued server command: /home yagi
-[00:01:55] [Server thread/WARN]: tukasasa moved wrongly!
-[00:05:44] [Server thread/INFO]: tukasasa issued server command: /tp n
-[00:06:02] [Server thread/INFO]: tukasasa issued server command: /return
-[00:08:41] [Server thread/INFO]: tukasasa issued server command: /tp n
-[00:09:02] [Server thread/INFO]: tukasasa issued server command: /return
-[00:25:28] [Server thread/INFO]: tukasasa issued server command: /home home
-[00:27:01] [Server thread/INFO]: nedo18 issued server command: /tpn
-[00:27:04] [Server thread/INFO]: nedo18 issued server command: /tpt
-[00:27:08] [Server thread/INFO]: nedo18 issued server command: /tp t
-[00:27:51] [Server thread/WARN]: tukasasa moved wrongly!
-[00:28:56] [Server thread/INFO]: nedo18 issued server command: /home y
-[00:29:01] [Server thread/INFO]: nedo18 issued server command: /home yagi
-[00:30:17] [Server thread/WARN]: tukasasa moved wrongly!
-[00:43:14] [Server thread/INFO]: tukasasa issued server command: /tp n
-[00:43:30] [Server thread/INFO]: tukasasa issued server command: /home home
-[00:46:30] [Server thread/INFO]: TaikiFnit lost connection: Timed out
-[00:46:30] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[00:46:30] [Server thread/INFO]: TaikiFnit left the game
-[00:51:23] [Server thread/INFO]: tukasasa issued server command: /home home
-[00:54:16] [Server thread/INFO]: tukasasa issued server command: /home home
-[00:54:29] [Server thread/INFO]: tukasasa issued server command: /return
-[00:57:17] [Server thread/INFO]: tukasasa issued server command: /tp n
-[01:01:23] [Server thread/WARN]: nedo18 moved wrongly!
-[01:01:35] [Server thread/WARN]: nedo18 moved wrongly!
-[01:26:45] [Server thread/INFO]: nedo18 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[01:26:45] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[01:26:45] [Server thread/INFO]: nedo18 left the game
-[01:49:46] [Craft Scheduler Thread - 3400/INFO]: [Vault] Checking for Updates ... 
-[01:49:47] [Craft Scheduler Thread - 3400/INFO]: [Vault] No new version available
-[01:52:10] [Server thread/INFO]: tukasasa issued server command: /home home
-[01:53:04] [Server thread/INFO]: tukasasa issued server command: /home home
-[01:56:46] [Server thread/INFO]: tukasasa lost connection: Disconnected
-[01:56:46] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[01:56:46] [Server thread/INFO]: tukasasa left the game
-[01:57:09] [User Authenticator #30/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
-[01:57:10] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[01:57:10] [Server thread/INFO]: tukasasa[/124.208.114.93:54224] logged in with entity id 247997 at ([world]61.28049662684844, 64.19621063450539, -242.072850503733)
-[01:57:45] [Server thread/INFO]: tukasasa issued server command: /fly
-[02:27:02] [Server thread/INFO]: tukasasa lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[02:27:02] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[02:27:02] [Server thread/INFO]: tukasasa left the game
+[00:00:08] [Server thread/INFO]: TaikiFnit issued server command: /home enchant
+[00:00:29] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[00:00:36] [Server thread/INFO]: TaikiFnit issued server command: /home ehchant
+[00:00:39] [Server thread/INFO]: TaikiFnit issued server command: /home enchant
+[00:00:48] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:11:00] [Server thread/INFO]: TaikiFnit issued server command: /craft
+[00:20:01] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:21:46] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:21:50] [Server thread/INFO]: TaikiFnit issued server command: /home n
+[00:22:07] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:22:09] [Server thread/INFO]: TaikiFnit issued server command: /home n
+[00:22:49] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:23:20] [Server thread/INFO]: TaikiFnit issued server command: /home beacon
+[00:23:26] [Server thread/WARN]: TaikiFnit moved wrongly!
+[00:23:48] [Server thread/INFO]: TaikiFnit issued server command: /home n
+[00:23:52] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:24:09] [Server thread/INFO]: TaikiFnit issued server command: /home n
+[00:24:51] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[01:51:23] [Craft Scheduler Thread - 5684/INFO]: [Vault] Checking for Updates ... 
+[01:51:24] [Craft Scheduler Thread - 5684/INFO]: [Vault] No new version available

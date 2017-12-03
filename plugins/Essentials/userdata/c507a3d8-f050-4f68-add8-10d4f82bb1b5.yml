@@ -1,23 +1,23 @@
 lastAccountName: tukasasa
 timestamps:
-  login: 1512233830331
-  logout: 1512235622899
-  lastteleport: 1512233584580
+  login: 1512310376596
+  logout: 1512312665041
+  lastteleport: 1512311506456
 ipAddress: 124.208.114.93
 lastlocation:
-  world: world_nether
-  x: -146.82740216795403
-  y: 32.0
-  z: -34.27454045184445
-  yaw: 254.1
-  pitch: 53.849964
+  world: world
+  x: 17.183423536045364
+  y: 11.0
+  z: -194.43370180258168
+  yaw: 6.0181885
+  pitch: 2.3999143
 logoutlocation:
   world: world
-  x: -217.72206415567354
-  y: 56.0
-  z: -72.72058642587474
-  yaw: -110.40728
-  pitch: 1.1999596
+  x: -220.3175366339533
+  y: 63.0
+  z: -48.04166094444479
+  yaw: 315.14453
+  pitch: 25.349838
 homes:
   home:
     world: world

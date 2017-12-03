@@ -679,6 +679,7 @@
       "wither_skeleton": "2017-07-29 18:45:31 +0900",
       "zombie_villager": "2017-07-22 16:45:01 +0900",
       "magma_cube": "2017-08-05 17:02:28 +0900",
+      "slime": "2017-12-03 14:37:21 +0900",
       "vindicator": "2017-08-28 23:12:50 +0900",
       "skeleton": "2017-07-22 15:51:00 +0900",
       "blaze": "2017-07-29 18:32:51 +0900",
@@ -1181,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2017-12-03 14:37:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2017-07-29 18:42:35 +0900"
@@ -1531,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2017-12-03 14:37:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 17:05:01 +0900"
@@ -1796,6 +1809,7 @@
       "cooked_beef": "2017-07-24 09:39:00 +0900",
       "chorus_fruit": "2017-09-09 23:45:52 +0900",
       "apple": "2017-08-29 23:05:35 +0900",
+      "potato": "2017-12-03 14:21:56 +0900",
       "cooked_cod": "2017-09-15 02:46:54 +0900",
       "poisonous_potato": "2017-08-28 22:53:12 +0900",
       "melon": "2017-09-23 23:22:04 +0900",
@@ -2484,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2017-12-03 14:37:40 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2017-09-09 23:12:20 +0900"
@@ -2493,6 +2513,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2017-07-22 15:52:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2017-12-03 14:37:40 +0900"
     },
     "done": true
   },
