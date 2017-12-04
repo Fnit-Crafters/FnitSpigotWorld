@@ -1,27 +1,12 @@
-[00:00:08] [Server thread/INFO]: TaikiFnit issued server command: /home enchant
-[00:00:29] [Server thread/INFO]: TaikiFnit issued server command: /home s
-[00:00:36] [Server thread/INFO]: TaikiFnit issued server command: /home ehchant
-[00:00:39] [Server thread/INFO]: TaikiFnit issued server command: /home enchant
-[00:00:48] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:11:00] [Server thread/INFO]: TaikiFnit issued server command: /craft
-[00:20:01] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:21:46] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:21:50] [Server thread/INFO]: TaikiFnit issued server command: /home n
-[00:22:07] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:22:09] [Server thread/INFO]: TaikiFnit issued server command: /home n
-[00:22:49] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:23:20] [Server thread/INFO]: TaikiFnit issued server command: /home beacon
-[00:23:26] [Server thread/WARN]: TaikiFnit moved wrongly!
-[00:23:48] [Server thread/INFO]: TaikiFnit issued server command: /home n
-[00:23:52] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[00:24:09] [Server thread/INFO]: TaikiFnit issued server command: /home n
-[00:24:51] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[01:51:23] [Craft Scheduler Thread - 5684/INFO]: [Vault] Checking for Updates ... 
-[01:51:24] [Craft Scheduler Thread - 5684/INFO]: [Vault] No new version available
-[07:51:36] [Craft Scheduler Thread - 6003/INFO]: [Vault] Checking for Updates ... 
-[07:51:37] [Craft Scheduler Thread - 6003/INFO]: [Vault] No new version available
-[09:51:41] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
-[09:51:41] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[09:51:41] [Server thread/INFO]: TaikiFnit left the game
-[13:51:48] [Craft Scheduler Thread - 6551/INFO]: [Vault] Checking for Updates ... 
-[13:51:48] [Craft Scheduler Thread - 6551/INFO]: [Vault] No new version available
+[00:45:46] [User Authenticator #40/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
+[00:45:50] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:45:50] [Server thread/INFO]: tukasasa[/124.208.114.93:49883] logged in with entity id 455942 at ([world]-220.3175366339533, 63.0, -48.04166094444479)
+[00:48:46] [Server thread/INFO]: tukasasa was slain by Zombie
+[00:49:07] [Server thread/INFO]: tukasasa issued server command: /return
+[00:50:04] [Server thread/INFO]: tukasasa was slain by Zombie
+[00:50:08] [Server thread/INFO]: tukasasa issued server command: /return
+[00:52:22] [Server thread/INFO]: tukasasa lost connection: Disconnected
+[00:52:23] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:52:23] [Server thread/INFO]: tukasasa left the game
+[01:52:14] [Craft Scheduler Thread - 7864/INFO]: [Vault] Checking for Updates ... 
+[01:52:15] [Craft Scheduler Thread - 7864/INFO]: [Vault] No new version available
