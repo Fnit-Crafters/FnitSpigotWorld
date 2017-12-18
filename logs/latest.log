@@ -1,6 +1,8 @@
-[02:01:18] [Craft Scheduler Thread - 41932/INFO]: [Vault] Checking for Updates ... 
-[02:01:19] [Craft Scheduler Thread - 41932/INFO]: [Vault] No new version available
-[08:01:26] [Craft Scheduler Thread - 42593/INFO]: [Vault] Checking for Updates ... 
-[08:01:27] [Craft Scheduler Thread - 42593/INFO]: [Vault] No new version available
-[14:01:36] [Craft Scheduler Thread - 43253/INFO]: [Vault] Checking for Updates ... 
-[14:01:37] [Craft Scheduler Thread - 43253/INFO]: [Vault] No new version available
+[00:38:05] [User Authenticator #46/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
+[00:38:08] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:38:08] [Server thread/INFO]: tukasasa[/124.208.114.93:63662] logged in with entity id 520739 at ([world]54.878877208576824, 97.57151168488603, -241.3124759743344)
+[00:38:24] [Server thread/INFO]: tukasasa lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[00:38:24] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:38:24] [Server thread/INFO]: tukasasa left the game
+[02:01:57] [Craft Scheduler Thread - 44573/INFO]: [Vault] Checking for Updates ... 
+[02:01:58] [Craft Scheduler Thread - 44573/INFO]: [Vault] No new version available
