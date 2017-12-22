@@ -1,2 +1,74 @@
 [02:03:24] [Craft Scheduler Thread - 52532/INFO]: [Vault] Checking for Updates ... 
 [02:03:25] [Craft Scheduler Thread - 52532/INFO]: [Vault] No new version available
+[08:03:32] [Craft Scheduler Thread - 53193/INFO]: [Vault] Checking for Updates ... 
+[08:03:33] [Craft Scheduler Thread - 53193/INFO]: [Vault] No new version available
+[14:03:39] [Craft Scheduler Thread - 53853/INFO]: [Vault] Checking for Updates ... 
+[14:03:40] [Craft Scheduler Thread - 53853/INFO]: [Vault] No new version available
+[17:48:35] [User Authenticator #49/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[17:48:39] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[17:48:39] [Server thread/INFO]: TaikiFnit[/192.168.0.104:55113] logged in with entity id 610948 at ([world]51.124047415355676, 109.35154586826735, -231.06745164794822)
+[18:41:36] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[18:41:37] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[18:41:37] [Server thread/INFO]: TaikiFnit left the game
+[20:03:50] [Craft Scheduler Thread - 54474/INFO]: [Vault] Checking for Updates ... 
+[20:03:50] [Craft Scheduler Thread - 54474/INFO]: [Vault] No new version available
+[22:15:46] [User Authenticator #50/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[22:15:50] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:15:50] [Server thread/INFO]: TaikiFnit[/192.168.0.104:49770] logged in with entity id 619712 at ([world]37.26257043312175, 80.0, -158.6347669041056)
+[22:17:33] [Server thread/INFO]: TaikiFnit issued server command: /fly
+[22:17:35] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:22:00] [Server thread/INFO]: TaikiFnit issued server command: /home bed
+[22:22:08] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:29:33] [Server thread/WARN]: TaikiFnit moved wrongly!
+[22:30:44] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[22:31:07] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:36:13] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:36:15] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[22:36:24] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:40:08] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:40:11] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[22:40:18] [Server thread/INFO]: TaikiFnit issued server command: /home bed
+[22:40:25] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[22:43:36] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[22:43:37] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:43:37] [Server thread/INFO]: TaikiFnit left the game
+[22:43:45] [User Authenticator #51/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[22:43:46] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:43:46] [Server thread/INFO]: TaikiFnit[/192.168.0.104:49864] logged in with entity id 629238 at ([world]0.3129386962308751, 73.0, -238.8508858747634)
+[22:43:53] [Server thread/INFO]: TaikiFnit issued server command: /fly
+[22:46:06] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[22:46:06] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:46:06] [Server thread/INFO]: TaikiFnit left the game
+[22:46:15] [User Authenticator #52/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[22:46:15] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:46:15] [Server thread/INFO]: TaikiFnit[/192.168.0.104:49882] logged in with entity id 630140 at ([world]30.69999998807907, 53.21109193341181, -256.30000001192093)
+[22:46:59] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[22:47:00] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:47:00] [Server thread/INFO]: TaikiFnit left the game
+[22:47:08] [User Authenticator #53/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[22:47:08] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:47:08] [Server thread/INFO]: TaikiFnit[/192.168.0.104:49890] logged in with entity id 630493 at ([world]30.69999998807907, 52.842662875226985, -256.30000001192093)
+[22:47:51] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[22:47:51] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:47:51] [Server thread/INFO]: TaikiFnit left the game
+[22:48:17] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS. Saving map...
+[22:48:17] [Server thread/INFO]: Saving...
+[22:48:17] [Server thread/INFO]: Saved the world
+[22:48:27] [Server thread/INFO]: Stopping the server
+[22:48:27] [Server thread/INFO]: Stopping server
+[22:48:27] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b499
+[22:48:27] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[22:48:27] [Server thread/INFO]: [ShopChest] Disabling ShopChest v1.12.3
+[22:48:27] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[22:48:27] [Server thread/INFO]: [DropMoney] Disabling DropMoney v0.0.1
+[22:48:27] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
+[22:48:27] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.11.46
+[22:48:28] [Server thread/INFO]: [FnitMCSAssistant] Disabling FnitMCSAssistant v1.0
+[22:48:28] [Server thread/INFO]: [Craftconomy3] Disabling Craftconomy3 v3.3.1-d99cf63-trv200
+[22:48:28] [Server thread/INFO]: [Craftconomy3] Closing the connection to the database.
+[22:48:28] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[22:48:28] [Server thread/INFO]: Saving players
+[22:48:28] [Server thread/INFO]: Saving worlds
+[22:48:28] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:48:28] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[22:48:28] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
