@@ -1,143 +1,218 @@
-[00:52:07] [User Authenticator #13/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
-[00:52:07] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[00:52:07] [Server thread/INFO]: tukasasa[/124.208.114.93:51835] logged in with entity id 322197 at ([world]-69.41941099935373, 114.16633385452502, -52.1897327409992)
-[00:54:30] [Server thread/INFO]: tukasasa issued server command: /home home
-[00:54:39] [Server thread/WARN]: tukasasa moved too quickly! -4.3432704764051095,7.9701371109065065,11.814861704230026
-[00:56:52] [Server thread/INFO]: tukasasa lost connection: Disconnected
-[00:56:52] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[00:56:52] [Server thread/INFO]: tukasasa left the game
-[04:57:12] [Craft Scheduler Thread - 16274/INFO]: [Vault] Checking for Updates ... 
-[04:57:12] [Craft Scheduler Thread - 16274/INFO]: [Vault] No new version available
-[10:53:50] [User Authenticator #14/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
-[10:53:54] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[10:53:54] [Server thread/INFO]: iqabc7145[/122.24.83.229:50048] logged in with entity id 332238 at ([world]-201.04592832680532, 7.0, 85.3794366084102)
-[10:56:01] [Server thread/INFO]: iqabc7145 issued server command: /money top
-[10:58:04] [Craft Scheduler Thread - 17701/INFO]: [Vault] Checking for Updates ... 
-[10:58:05] [Craft Scheduler Thread - 17701/INFO]: [Vault] No new version available
-[11:04:09] [Async Chat Thread - #5/INFO]: <iqabc7145> wwwwwwwwwWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW[m
-[11:10:29] [Server thread/INFO]: iqabc7145 issued server command: /home
-[11:10:42] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[11:12:09] [Server thread/INFO]: iqabc7145 issued server command: /fly
-[11:17:13] [Server thread/INFO]: iqabc7145 issued server command: /moneyt top
-[11:17:19] [Server thread/INFO]: iqabc7145 issued server command: /money top
-[11:17:31] [Server thread/INFO]: iqabc7145 issued server command: /home maria
-[11:19:44] [Server thread/INFO]: iqabc7145 issued server command: /home bed
-[11:36:28] [Server thread/INFO]: iqabc7145 issued server command: /list
-[12:05:28] [Server thread/INFO]: iqabc7145 issued server command: /home
-[12:05:38] [Server thread/INFO]: iqabc7145 issued server command: /home dia
-[12:18:00] [Server thread/INFO]: iqabc7145 issued server command: /list
-[12:18:09] [Server thread/INFO]: iqabc7145 issued server command: /home guild
-[12:29:18] [Server thread/INFO]: iqabc7145 issued server command: /list
-[12:38:39] [Server thread/INFO]: iqabc7145 issued server command: /list
-[12:38:43] [Server thread/INFO]: iqabc7145 issued server command: /home dia
-[12:44:57] [Async Chat Thread - #6/INFO]: <iqabc7145> www[m
-[12:58:04] [Server thread/INFO]: iqabc7145 issued server command: /list
-[13:02:11] [Server thread/INFO]: iqabc7145 issued server command: /home guild
-[13:03:30] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:04:20] [Server thread/INFO]: iqabc7145 issued server command: /home book
-[13:04:32] [User Authenticator #15/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
-[13:04:32] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[13:04:32] [Server thread/INFO]: TaikiFnit[/192.168.0.104:65510] logged in with entity id 350643 at ([world]-51.784483970985335, 86.5, -254.0410359926235)
-[13:04:43] [Async Chat Thread - #7/INFO]: <TaikiFnit> hello[m
-[13:04:45] [Async Chat Thread - #7/INFO]: <iqabc7145> fni![m
-[13:04:50] [Async Chat Thread - #7/INFO]: <iqabc7145> hello[m
-[13:05:17] [Async Chat Thread - #7/INFO]: <iqabc7145> 久しくまいくら[m
-[13:05:27] [Async Chat Thread - #7/INFO]: <TaikiFnit> いいね[m
-[13:09:15] [Async Chat Thread - #8/INFO]: <iqabc7145> sawda! ジャングルどこにある？[m
-[13:09:23] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:09:23] [Server thread/INFO]: TaikiFnit issued server command: /home jungle
-[13:09:29] [Async Chat Thread - #8/INFO]: <TaikiFnit> here[m
-[13:09:32] [Server thread/INFO]: iqabc7145 issued server command: /tp taikiifnit
-[13:09:43] [Server thread/INFO]: iqabc7145 issued server command: /tp TaikiFnit
-[13:10:03] [Async Chat Thread - #8/INFO]: <iqabc7145> いぇぇぇぇぇぇぇぅい[m
-[13:10:42] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[13:11:12] [Async Chat Thread - #9/INFO]: <iqabc7145> kurai[m
-[13:11:20] [Async Chat Thread - #9/INFO]: <TaikiFnit> siyou[m
-[13:11:37] [Async Chat Thread - #9/INFO]: <iqabc7145> mienai[m
-[13:12:04] [Server thread/INFO]: iqabc7145 issued server command: /sethome znzn
-[13:12:07] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:12:19] [Server thread/INFO]: iqabc7145 issued server command: /home mansin
-[13:12:27] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[13:12:29] [Server thread/WARN]: iqabc7145 moved wrongly!
-[13:12:29] [Server thread/WARN]: iqabc7145 moved wrongly!
-[13:12:56] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:15:05] [Server thread/INFO]: TaikiFnit issued server command: /home n
-[13:15:44] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[13:16:36] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[13:20:18] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:22:13] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[13:23:19] [Server thread/INFO]: iqabc7145 issued server command: /home a
-[13:23:22] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:24:16] [Server thread/INFO]: iqabc7145 issued server command: /home zzn
-[13:24:19] [Server thread/INFO]: iqabc7145 issued server command: /home znzn
-[13:24:28] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[13:24:45] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:25:01] [Server thread/INFO]: iqabc7145 issued server command: /home maria
-[13:25:09] [Server thread/INFO]: iqabc7145 issued server command: /home dia
-[13:26:10] [Server thread/INFO]: iqabc7145 issued server command: /home fnit
-[13:26:30] [Server thread/INFO]: iqabc7145 issued server command: /home znzn
-[13:27:08] [Server thread/WARN]: iqabc7145 moved wrongly!
-[13:27:08] [Server thread/WARN]: iqabc7145 moved wrongly!
-[13:27:08] [Server thread/WARN]: iqabc7145 moved wrongly!
-[13:27:56] [Server thread/INFO]: TaikiFnit issued server command: /craft
-[13:39:12] [Server thread/INFO]: iqabc7145 has made the advancement [Best Friends Forever]
-[13:39:56] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:40:11] [Server thread/INFO]: iqabc7145 issued server command: /home znzn
-[13:40:17] [Server thread/INFO]: iqabc7145 issued server command: /home fnit
-[13:40:45] [Server thread/INFO]: iqabc7145 issued server command: /home znzn
-[13:42:06] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[13:46:17] [Server thread/INFO]: TaikiFnit issued server command: /home h
-[13:46:27] [Server thread/INFO]: TaikiFnit issued server command: /home s
-[13:46:31] [Server thread/INFO]: TaikiFnit issued server command: /fly
-[13:48:32] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
-[13:48:32] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[13:48:32] [Server thread/INFO]: TaikiFnit left the game
-[13:49:08] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[13:50:01] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[14:04:04] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:19:58] [Server thread/WARN]: iqabc7145 moved wrongly!
-[14:25:39] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:27:03] [Server thread/WARN]: iqabc7145 moved wrongly!
-[14:27:03] [Server thread/WARN]: iqabc7145 moved wrongly!
-[14:36:05] [Server thread/INFO]: iqabc7145 issued server command: /home maria
-[14:37:55] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:40:18] [Server thread/INFO]: iqabc7145 issued server command: /home
-[14:40:48] [Server thread/INFO]: iqabc7145 issued server command: /home slime
-[14:41:49] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[14:42:47] [Server thread/INFO]: iqabc7145 issued server command: /home maria
-[14:43:28] [Server thread/INFO]: iqabc7145 issued server command: /home guild
-[14:43:33] [Server thread/INFO]: iqabc7145 issued server command: /money top
-[14:43:56] [Server thread/INFO]: iqabc7145 issued server command: /money top
-[14:44:13] [Server thread/INFO]: iqabc7145 issued server command: /money top
-[14:44:23] [Server thread/INFO]: iqabc7145 issued server command: /home maria
-[14:45:34] [Server thread/INFO]: iqabc7145 issued server command: /home book
-[14:48:45] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:52:33] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[14:55:19] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:56:26] [Server thread/INFO]: iqabc7145 issued server command: /home slime
-[14:56:53] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:56:57] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
-[14:57:24] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[14:57:27] [Server thread/INFO]: iqabc7145 issued server command: /home slime
-[15:24:47] [Server thread/INFO]: iqabc7145 issued server command: /home s
-[16:35:14] [Server thread/INFO]: iqabc7145 issued server command: /home dia
-[16:38:13] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
-[16:38:14] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[16:38:14] [Server thread/INFO]: iqabc7145 left the game
-[16:59:09] [Craft Scheduler Thread - 18444/INFO]: [Vault] Checking for Updates ... 
-[16:59:10] [Craft Scheduler Thread - 18444/INFO]: [Vault] No new version available
-[17:04:12] [User Authenticator #16/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
-[17:04:13] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[17:04:13] [Server thread/INFO]: iqabc7145[/122.24.83.229:51123] logged in with entity id 411104 at ([world]-200.62675010275797, 7.0, 85.39558931486468)
-[17:04:20] [Server thread/INFO]: iqabc7145 issued server command: /list
-[17:44:55] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
-[17:44:56] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[17:44:56] [Server thread/INFO]: iqabc7145 left the game
-[19:01:55] [User Authenticator #17/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
-[19:01:56] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[19:01:56] [Server thread/INFO]: iqabc7145[/122.24.83.229:51252] logged in with entity id 412663 at ([world]-201.83309266458033, 7.0, 85.4815296441954)
-[19:02:09] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
-[19:02:10] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[19:02:10] [Server thread/INFO]: iqabc7145 left the game
-[22:59:59] [Craft Scheduler Thread - 19850/INFO]: [Vault] Checking for Updates ... 
-[23:00:00] [Craft Scheduler Thread - 19850/INFO]: [Vault] No new version available
+[05:00:47] [Craft Scheduler Thread - 21293/INFO]: [Vault] Checking for Updates ... 
+[05:00:48] [Craft Scheduler Thread - 21293/INFO]: [Vault] No new version available
+[11:01:35] [Craft Scheduler Thread - 22754/INFO]: [Vault] Checking for Updates ... 
+[11:01:36] [Craft Scheduler Thread - 22754/INFO]: [Vault] No new version available
+[13:27:24] [User Authenticator #18/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
+[13:27:27] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[13:27:27] [Server thread/INFO]: iqabc7145[/122.24.83.229:49312] logged in with entity id 412899 at ([world]-201.0628345959384, 7.0, 85.49565560104229)
+[13:45:00] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
+[13:45:01] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[13:45:01] [Server thread/INFO]: iqabc7145 left the game
+[14:22:01] [User Authenticator #19/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
+[14:22:02] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[14:22:02] [Server thread/INFO]: iqabc7145[/122.24.83.229:49268] logged in with entity id 413601 at ([world]-201.1567446287907, 7.0, 85.51143673723591)
+[14:36:53] [Server thread/INFO]: iqabc7145 issued server command: /fly
+[14:55:03] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[14:55:48] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[14:57:20] [Server thread/WARN]: iqabc7145 moved wrongly!
+[14:58:14] [Server thread/INFO]: iqabc7145 issued server command: /home slime
+[14:58:18] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[15:01:24] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[15:02:12] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[15:03:34] [Server thread/INFO]: iqabc7145 issued server command: /home slime
+[15:12:51] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:23:37] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:24:07] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[15:24:21] [Server thread/INFO]: iqabc7145 issued server command: /home slime
+[15:24:45] [Server thread/WARN]: iqabc7145 moved wrongly!
+[15:26:30] [Server thread/INFO]: iqabc7145 has made the advancement [Ice Bucket Challenge]
+[16:30:55] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:31:58] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:31:59] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:31:59] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:31:59] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:33:28] [Server thread/WARN]: iqabc7145 moved too quickly! 0.5947509318818902,-0.4315238452707266,10.866029548159418
+[16:35:22] [Server thread/WARN]: iqabc7145 moved wrongly!
+[16:49:31] [Server thread/WARN]: iqabc7145 moved too quickly! -2.3166035597339487,0.0,-24.354877877955573
+[17:02:23] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:02:33] [Craft Scheduler Thread - 23691/INFO]: [Vault] Checking for Updates ... 
+[17:02:34] [Craft Scheduler Thread - 23691/INFO]: [Vault] No new version available
+[17:25:06] [Server thread/INFO]: iqabc7145 lost connection: Timed out
+[17:25:16] [Server thread/WARN]: java.net.UnknownHostException: us-central1-fnitmcsassistant.cloudfunctions.net
+[17:25:16] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[17:25:16] [Server thread/WARN]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[17:25:16] [Server thread/WARN]: 	at java.net.Socket.connect(Socket.java:589)
+[17:25:16] [Server thread/WARN]: 	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+[17:25:16] [Server thread/WARN]: 	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+[17:25:16] [Server thread/WARN]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1316)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1291)
+[17:25:16] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:250)
+[17:25:16] [Server thread/WARN]: 	at crafters.fnit.fnitmcsassistant.Models.PostJsonKt.postJson(postJson.kt:24)
+[17:25:16] [Server thread/WARN]: 	at crafters.fnit.fnitmcsassistant.Models.CollectPlayerStatisticKt.collectPlayerStatistic(collectPlayerStatistic.kt:42)
+[17:25:16] [Server thread/WARN]: 	at crafters.fnit.fnitmcsassistant.Listeners.PlayerQuitEvent.onPlayerQuit(PlayerQuitEvent.kt:16)
+[17:25:16] [Server thread/WARN]: 	at sun.reflect.GeneratedMethodAccessor92.invoke(Unknown Source)
+[17:25:16] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:25:16] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[17:25:16] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+[17:25:16] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[17:25:16] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:499)
+[17:25:16] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:484)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.PlayerList.disconnect(PlayerList.java:399)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1096)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager.handleDisconnection(NetworkManager.java:319)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:174)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:845)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679)
+[17:25:16] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577)
+[17:25:16] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[17:25:17] [Server thread/INFO]: iqabc7145 left the game
+[17:32:21] [User Authenticator #20/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
+[17:32:22] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[17:32:22] [Server thread/INFO]: iqabc7145[/122.24.83.229:49440] logged in with entity id 446246 at ([world]1721.5338240721987, 11.0, 682.3704488116853)
+[17:32:30] [Server thread/INFO]: iqabc7145 issued server command: /list
+[17:35:36] [Server thread/INFO]: iqabc7145 issued server command: /fly
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:30] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:31] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:31] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:31] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:40:31] [Server thread/WARN]: iqabc7145 moved wrongly!
+[17:41:37] [Server thread/INFO]: iqabc7145 issued server command: /list
+[17:41:41] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[17:42:24] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[17:42:41] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[17:43:01] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[17:45:21] [Server thread/INFO]: iqabc7145 issued server command: /home www
+[17:45:50] [Server thread/INFO]: iqabc7145 issued server command: /home slime
+[18:14:38] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:14:38] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:14:38] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:14:55] [Server thread/WARN]: iqabc7145 moved too quickly! 15.818223083768544,0.7933185266578047,-0.4074975988650067
+[18:28:58] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:28:58] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:29:14] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[18:29:18] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[18:29:31] [Server thread/INFO]: iqabc7145 issued server command: /home guild
+[18:32:13] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:33:05] [Server thread/WARN]: iqabc7145 moved wrongly!
+[18:37:49] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[18:38:11] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[18:38:18] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[18:38:25] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[18:39:00] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[18:39:41] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[18:41:52] [Server thread/INFO]: iqabc7145 issued server command: /h
+[18:42:03] [Server thread/INFO]: iqabc7145 issued server command: /home slime
+[18:43:23] [Server thread/INFO]: iqabc7145 issued server command: /home book
+[18:44:30] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[18:44:47] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[18:50:47] [Server thread/INFO]: iqabc7145 issued server command: /home book
+[18:51:57] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[18:52:16] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[18:53:34] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[18:55:49] [Server thread/INFO]: iqabc7145 issued server command: /home doa
+[18:55:52] [Server thread/INFO]: iqabc7145 issued server command: /home dia
+[18:56:08] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[18:56:58] [Server thread/INFO]: iqabc7145 issued server command: /home book
+[18:58:03] [Server thread/INFO]: iqabc7145 issued server command: /shop
+[18:58:20] [Server thread/INFO]: iqabc7145 issued server command: /shop limits
+[18:58:32] [Server thread/INFO]: iqabc7145 issued server command: /shop open
+[18:59:32] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[19:04:19] [Server thread/INFO]: iqabc7145 issued server command: /home fnit
+[19:05:09] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[19:05:26] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[19:06:09] [Server thread/INFO]: iqabc7145 issued server command: /shop
+[19:06:26] [Server thread/INFO]: iqabc7145 issued server command: /create shop
+[19:06:46] [Server thread/INFO]: iqabc7145 issued server command: /shop create 1 aaa
+[19:07:24] [Server thread/INFO]: iqabc7145 issued server command: /shop create 1 1 1
+[19:13:16] [Server thread/INFO]: iqabc7145 issued server command: /hopme s
+[19:13:19] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[19:13:41] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[19:13:47] [Server thread/INFO]: iqabc7145 issued server command: /home myshop
+[19:16:19] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[19:22:17] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[19:22:32] [Server thread/WARN]: iqabc7145 moved wrongly!
+[19:44:55] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[19:45:47] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[19:50:54] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[19:51:12] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:03:19] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:03:36] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:18:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[20:19:01] [Server thread/WARN]: iqabc7145 moved wrongly!
+[20:39:33] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:40:05] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:42:00] [Server thread/INFO]: iqabc7145 issued server command: /money top
+[20:42:45] [Server thread/INFO]: iqabc7145 issued server command: /shop create 1 3000
+[20:43:00] [Server thread/INFO]: iqabc7145 issued server command: /shop create 1 3000 3000
+[20:43:33] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:43:40] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:44:38] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:45:44] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:45:47] [Server thread/INFO]: iqabc7145 issued server command: /
+[20:45:53] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:48:01] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[20:50:17] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[20:51:07] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[20:51:44] [Server thread/INFO]: iqabc7145 issued server command: /shop remove
+[20:54:00] [Server thread/INFO]: iqabc7145 issued server command: /shop create 8 100 0
+[20:54:24] [Server thread/INFO]: iqabc7145 issued server command: /shop remove
+[20:54:31] [Server thread/INFO]: iqabc7145 issued server command: /shop create 8 100 0
+[21:28:57] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[21:54:26] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[21:58:37] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[21:58:47] [Server thread/INFO]: iqabc7145 issued server command: /home shop
+[21:59:35] [Server thread/INFO]: iqabc7145 issued server command: /sethome myshop
+[21:59:39] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[22:01:11] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:01:11] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:01:11] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:01:11] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:03:03] [Server thread/INFO]: iqabc7145 issued server command: /home myshop
+[22:03:21] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[22:06:31] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:36] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:36] [Server thread/WARN]: iqabc7145 moved too quickly! -8.898594122638173,-0.12047092823108585,-6.645733386356767
+[22:06:43] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:43] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:06:43] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:07:09] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:07:09] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:07:12] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:07:12] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:07:12] [Server thread/WARN]: iqabc7145 moved wrongly!
+[22:12:01] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[22:12:14] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[22:12:56] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[22:12:59] [Server thread/INFO]: iqabc7145 issued server command: /home maria
+[22:13:18] [Server thread/INFO]: iqabc7145 issued server command: /home dia
+[22:54:07] [Async Chat Thread - #10/INFO]: <iqabc7145> list[m
+[22:54:16] [Async Chat Thread - #10/INFO]: <iqabc7145> list[m
+[22:54:20] [Server thread/INFO]: iqabc7145 issued server command: /list
+[22:54:58] [Server thread/INFO]: iqabc7145 issued server command: /list
+[22:55:02] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
+[22:55:05] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:55:05] [Server thread/INFO]: iqabc7145 left the game
+[23:03:47] [Craft Scheduler Thread - 24186/INFO]: [Vault] Checking for Updates ... 
+[23:03:48] [Craft Scheduler Thread - 24186/INFO]: [Vault] No new version available
