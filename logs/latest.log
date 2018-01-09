@@ -1,14 +1,17 @@
-[05:41:44] [Craft Scheduler Thread - 89490/INFO]: [Vault] Checking for Updates ... 
-[05:41:45] [Craft Scheduler Thread - 89490/INFO]: [Vault] No new version available
-[11:42:35] [Craft Scheduler Thread - 90965/INFO]: [Vault] Checking for Updates ... 
-[11:42:36] [Craft Scheduler Thread - 90965/INFO]: [Vault] No new version available
-[17:43:26] [Craft Scheduler Thread - 92413/INFO]: [Vault] Checking for Updates ... 
-[17:43:27] [Craft Scheduler Thread - 92413/INFO]: [Vault] No new version available
-[22:22:28] [User Authenticator #22/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
-[22:22:32] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[22:22:32] [Server thread/INFO]: tukasasa[/124.208.114.93:55611] logged in with entity id 547532 at ([world]-390.63128078498397, 94.16123321536128, -65.22406202480724)
-[22:23:39] [Server thread/INFO]: tukasasa lost connection: Disconnected
-[22:23:40] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[22:23:40] [Server thread/INFO]: tukasasa left the game
-[23:44:19] [Craft Scheduler Thread - 93872/INFO]: [Vault] Checking for Updates ... 
-[23:44:20] [Craft Scheduler Thread - 93872/INFO]: [Vault] No new version available
+[00:45:33] [User Authenticator #23/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[00:45:36] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:45:36] [Server thread/INFO]: TaikiFnit[/192.168.0.104:63398] logged in with entity id 549779 at ([world]-25.327734843503215, 67.0, -176.38027525778665)
+[00:45:44] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:47:01] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:49:50] [Server thread/INFO]: TaikiFnit issued server command: /sethome top
+[00:49:51] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:50:01] [Server thread/INFO]: TaikiFnit issued server command: /sethome h
+[00:51:47] [Server thread/INFO]: TaikiFnit issued server command: /home top
+[00:51:59] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[00:52:00] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:52:15] [Server thread/INFO]: TaikiFnit issued server command: /home top
+[00:52:22] [Server thread/INFO]: TaikiFnit issued server command: /home s
+[00:52:25] [Server thread/INFO]: TaikiFnit issued server command: /home h
+[00:54:41] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[00:54:41] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:54:41] [Server thread/INFO]: TaikiFnit left the game
