@@ -1,2 +1,45 @@
-[00:04:37] [Craft Scheduler Thread - 129680/INFO]: [Vault] Checking for Updates ... 
-[00:04:38] [Craft Scheduler Thread - 129680/INFO]: [Vault] No new version available
+[00:07:54] [Craft Scheduler Thread - 136283/INFO]: [Vault] Checking for Updates ... 
+[00:07:55] [Craft Scheduler Thread - 136283/INFO]: [Vault] No new version available
+[00:18:08] [Server thread/INFO]: villagesea issued server command: /home bed
+[00:18:25] [Server thread/INFO]: villagesea issued server command: /home vs
+[00:22:20] [Server thread/INFO]: villagesea issued server command: /money
+[00:22:26] [Server thread/INFO]: villagesea issued server command: /money top
+[00:23:57] [Server thread/WARN]: villagesea moved too quickly! 2.187113119011343,0.0,-17.47657015807477
+[00:30:34] [Server thread/INFO]: villagesea issued server command: /shopchest
+[00:30:42] [Server thread/INFO]: villagesea issued server command: /help shopchest
+[00:30:51] [Server thread/INFO]: villagesea issued server command: /help
+[00:31:17] [Server thread/INFO]: villagesea issued server command: /help craftconomy3
+[00:31:34] [Server thread/INFO]: villagesea issued server command: /help 2
+[00:31:41] [Server thread/INFO]: villagesea issued server command: /help 3
+[00:31:48] [Server thread/INFO]: villagesea issued server command: /help 4
+[00:31:53] [Server thread/INFO]: villagesea issued server command: /help 5
+[00:31:59] [Server thread/INFO]: villagesea issued server command: /help 6
+[00:32:20] [Server thread/INFO]: villagesea issued server command: /fireball
+[00:32:25] [Server thread/INFO]: villagesea issued server command: /fireball
+[00:32:53] [Server thread/INFO]: villagesea issued server command: /enderchest
+[00:33:00] [Server thread/INFO]: villagesea issued server command: /help 7
+[00:33:08] [Server thread/INFO]: villagesea issued server command: /hat
+[00:33:14] [Server thread/INFO]: villagesea issued server command: /hat
+[00:33:25] [Server thread/INFO]: villagesea issued server command: /hat
+[00:33:34] [Server thread/INFO]: villagesea issued server command: /help 8
+[00:33:42] [Server thread/INFO]: villagesea issued server command: /help 9
+[00:33:51] [Server thread/INFO]: villagesea issued server command: /help 10
+[00:34:03] [Server thread/INFO]: villagesea issued server command: /help 11
+[00:34:19] [Server thread/INFO]: villagesea issued server command: /help 12
+[00:34:27] [Server thread/INFO]: villagesea issued server command: /help 13
+[00:34:53] [Server thread/INFO]: villagesea issued server command: /chair
+[00:34:59] [Server thread/INFO]: villagesea issued server command: /help chair
+[00:35:04] [Server thread/INFO]: villagesea issued server command: /chairs
+[00:35:08] [Server thread/INFO]: villagesea issued server command: /chairs on
+[00:38:29] [Server thread/WARN]: villagesea moved wrongly!
+[00:39:12] [Server thread/INFO]: villagesea issued server command: /shop create 1 2000 0
+[00:42:17] [Server thread/INFO]: villagesea issued server command: /home vs
+[00:42:31] [Server thread/INFO]: villagesea issued server command: /home hvs
+[00:43:17] [Server thread/INFO]: villagesea issued server command: /home fnit
+[00:45:31] [Server thread/INFO]: villagesea issued server command: /home const
+[00:46:52] [Server thread/INFO]: villagesea issued server command: /home hvs
+[00:57:27] [Server thread/INFO]: villagesea issued server command: /shop 64 0 300
+[00:57:34] [Server thread/INFO]: villagesea issued server command: /shop create 64 0 300
+[00:57:54] [Server thread/INFO]: villagesea lost connection: Disconnected
+[00:57:57] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[00:57:57] [Server thread/INFO]: villagesea left the game
