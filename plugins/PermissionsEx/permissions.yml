@@ -19,6 +19,52 @@ groups:
     - craftconomy.bank.withdraw
     - craftconomy.bank.list
     - craftconomy.currency.info
+  economy-admin:
+    options:
+      default: false
+    permissions:
+    - modifyworld.*
+    - TreeAssist.*
+    - Essentials.*
+    - craftconomy.money.balance
+    - craftconomy.money.balance.others
+    - craftconomy.money.pay
+    - craftconomy.money.top
+    - craftconomy.money.log
+    - craftconomy.money.log.others
+    - craftconomy.bank.create
+    - craftconomy.bank.balance
+    - craftconomy.bank.deposit
+    - craftconomy.bank.perm
+    - craftconomy.bank.withdraw
+    - craftconomy.bank.list
+    - craftconomy.currency.info
+    - craftconomy.money.give
+    - craftconomy.money.set
+    - craftconomy.money.take
+    - craftconomy.money.infinite 
+    - craftconomy.account.create
+    - craftconomy.account.delete
+    - craftconomy.bank.perm.others
+    - craftconomy.bank.balance.others
+    - craftconomy.bank.give
+    - craftconomy.bank.set
+    - craftconomy.bank.take 
+    - craftconomy.setup
+    - craftconomy.currency.add
+    - craftconomy.currency.delete
+    - craftconomy.currency.edit
+    - craftconomy.currency.default
+    - craftconomy.payday.command.create
+    - craftconomy.payday.command.modify
+    - craftconomy.payday.command.delete
+    - craftconomy.config.longmode
+    - craftconomy.config.bankprice
+    - craftconomy.config.holdings
+    - craftconomy.group.addworld
+    - craftconomy.group.create
+    - craftconomy.group.delworld
+    - shopchest.*
   admin:
     options:
       default: false
@@ -71,4 +117,9 @@ users:
     - admin
     options:
       name: TaikiFnit
+  5a8e25ba-9ac8-4ce3-9b9d-21706c46e5f0:
+    group:
+    - economy-admin
+    options:
+      name: villagesea
 schema-version: 1
