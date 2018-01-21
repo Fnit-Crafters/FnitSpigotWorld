@@ -1,14 +1,190 @@
-[05:38:38] [Craft Scheduler Thread - 86/INFO]: [Vault] Checking for Updates ... 
-[05:38:39] [Craft Scheduler Thread - 86/INFO]: [Vault] No new version available
-[11:38:40] [Craft Scheduler Thread - 147/INFO]: [Vault] Checking for Updates ... 
-[11:38:41] [Craft Scheduler Thread - 147/INFO]: [Vault] No new version available
-[12:12:45] [User Authenticator #3/INFO]: UUID of player tukasasa is c507a3d8-f050-4f68-add8-10d4f82bb1b5
-[12:12:48] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[12:12:48] [Server thread/INFO]: tukasasa[/124.208.114.93:49979] logged in with entity id 4341 at ([world]-40.92838558853619, 95.76177941027917, -192.4223613127832)
-[12:16:42] [Server thread/INFO]: tukasasa lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[12:16:43] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[12:16:43] [Server thread/INFO]: tukasasa left the game
-[17:38:43] [Craft Scheduler Thread - 215/INFO]: [Vault] Checking for Updates ... 
-[17:38:44] [Craft Scheduler Thread - 215/INFO]: [Vault] No new version available
-[23:38:45] [Craft Scheduler Thread - 276/INFO]: [Vault] Checking for Updates ... 
-[23:38:46] [Craft Scheduler Thread - 276/INFO]: [Vault] No new version available
+[22:01:41] [Server thread/INFO]: Starting minecraft server version 1.12.1
+[22:01:41] [Server thread/INFO]: Loading properties
+[22:01:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:01:42] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5340a52-27b8bf9 (MC: 1.12.1) (Implementing API version 1.12.1-R0.1-SNAPSHOT)
+[22:01:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:01:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:01:42] [Server thread/INFO]: Debug logging is disabled
+[22:01:42] [Server thread/INFO]: Generating keypair
+[22:01:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:01:43] [Server thread/INFO]: Using epoll channel type
+[22:01:43] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:01:43] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[22:01:43] [Server thread/INFO]: [Craftconomy3] Loading Craftconomy3 v3.3.1-d99cf63-trv200
+[22:01:43] [Server thread/INFO]: [FnitMCSAssistant] Loading FnitMCSAssistant v1.0
+[22:01:43] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v5.11.46
+[22:01:43] [Server thread/INFO]: [Chairs] Loading Chairs v4.11
+[22:01:43] [Server thread/INFO]: [DropMoney] Loading DropMoney v0.0.1
+[22:01:43] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[22:01:43] [Server thread/INFO]: [ShopChest] Loading ShopChest v1.12.3
+[22:01:43] [Server thread/INFO]: [ShopChest] Using locale "en_US"
+[22:01:43] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b499
+[22:01:43] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[22:01:43] [Server thread/INFO]: [Vault] [Economy] CraftConomy3 found: Waiting
+[22:01:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:01:43] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[22:01:43] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:01:43] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[22:01:43] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[22:01:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:01:43] [Server thread/INFO]: Preparing level "world"
+[22:01:43] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:01:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:01:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:01:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:01:43] [Server thread/INFO]: Mob Spawn Range: 4
+[22:01:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:01:43] [Server thread/INFO]: Random Lighting Updates: false
+[22:01:43] [Server thread/INFO]: Structure Info Saving: true
+[22:01:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:01:43] [Server thread/INFO]: Max TNT Explosions: 100
+[22:01:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:01:43] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:01:43] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:01:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:01:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:01:43] [Server thread/INFO]: View Distance: 10
+[22:01:43] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:01:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:01:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:01:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:01:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:01:44] [Server thread/INFO]: Mob Spawn Range: 4
+[22:01:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:01:44] [Server thread/INFO]: Random Lighting Updates: false
+[22:01:44] [Server thread/INFO]: Structure Info Saving: true
+[22:01:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:01:44] [Server thread/INFO]: Max TNT Explosions: 100
+[22:01:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:01:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:01:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:01:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:01:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:01:44] [Server thread/INFO]: View Distance: 10
+[22:01:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:01:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:01:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:01:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:01:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:01:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:01:44] [Server thread/INFO]: Mob Spawn Range: 4
+[22:01:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:01:44] [Server thread/INFO]: Random Lighting Updates: false
+[22:01:44] [Server thread/INFO]: Structure Info Saving: true
+[22:01:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:01:44] [Server thread/INFO]: Max TNT Explosions: 100
+[22:01:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:01:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:01:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:01:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:01:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:01:44] [Server thread/INFO]: View Distance: 10
+[22:01:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:01:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:01:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:01:44] [Server thread/INFO]: Preparing start region for level 0 (Seed: 64235469412141)
+[22:01:45] [Server thread/INFO]: Preparing spawn area: 0%
+[22:01:46] [Server thread/INFO]: Preparing spawn area: 32%
+[22:01:47] [Server thread/INFO]: Preparing spawn area: 81%
+[22:01:48] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1143334721159927095)
+[22:01:49] [Server thread/INFO]: Preparing spawn area: 66%
+[22:01:49] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1143334721159927095)
+[22:01:50] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[22:01:50] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[22:01:50] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[22:01:50] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[22:01:50] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[22:01:50] [Server thread/INFO]: [Craftconomy3] Enabling Craftconomy3 v3.3.1-d99cf63-trv200
+[22:01:50] [Server thread/INFO]: [Craftconomy3] Starting up!
+[22:01:50] [Server thread/INFO]: [Craftconomy3] Loading the Configuration
+[22:01:52] [Server thread/INFO]: [Craftconomy3] Loading listeners.
+[22:01:52] [Server thread/INFO]: [Craftconomy3] Loading commands
+[22:01:52] [Server thread/INFO]: [Craftconomy3] Loading the Database Manager
+[22:01:52] [Server thread/WARN]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[22:01:52] [Server thread/WARN]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[22:01:52] [Server thread/WARN]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Database Manager Loaded!
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Loading the Currency manager.
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Currency Manager Loaded!
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Loading default settings.
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Default settings loaded!
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Loading the Account Manager
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Starting Metrics.
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Account Manager Loaded!
+[22:01:53] [Server thread/INFO]: [Craftconomy3] World Group Manager loaded!
+[22:01:53] [Server thread/INFO]: [Craftconomy3] Ready!
+[22:01:53] [Server thread/INFO]: [Vault][Economy] Craftconomy3 hooked.
+[22:01:53] [Server thread/INFO]: [FnitMCSAssistant] Enabling FnitMCSAssistant v1.0
+[22:01:53] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v5.11.46
+[22:01:53] [Server thread/INFO]: [TreeAssist] debugging: off
+[22:01:53] [Server thread/INFO]: [Chairs] Enabling Chairs v4.11
+[22:01:53] [Server thread/INFO]: [DropMoney] Enabling DropMoney v0.0.1
+[22:01:53] [Server thread/INFO]: [ShopChest] Enabling ShopChest v1.12.3
+[22:01:53] [Server thread/INFO]: [ShopChest] Using SQLite
+[22:01:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b499
+[22:01:53] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[22:01:54] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[22:01:54] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[22:01:54] [Server thread/INFO]: Using locale en_US
+[22:01:54] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:01:54] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[22:01:54] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[22:01:54] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: Craftconomy3 version: 1.5.6-b49)
+[22:01:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:01:54] [Server thread/INFO]: Done (10.569s)! For help, type "help" or "?"
+[22:01:54] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
+[22:01:55] [Craft Scheduler Thread - 3/INFO]: [ShopChest] [0;33;22m[21mChecking for updates...[m
+[22:01:55] [Craft Scheduler Thread - 3/INFO]: [ShopChest] [0;33;22m[21mNo new update available.[m
+[22:01:55] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
+[22:01:57] [Server thread/INFO]: [ShopChest] Initialized 12 Shops
+[22:02:04] [User Authenticator #1/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[22:02:08] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:02:08] [Server thread/INFO]: TaikiFnit[/192.168.0.104:50386] logged in with entity id 550 at ([world]-5852.177828770318, 105.18983769106697, 6726.055278987989)
+[22:02:24] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[22:02:24] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[22:02:24] [Server thread/INFO]: TaikiFnit left the game
+[22:19:32] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_144]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:85) [spigot-1.12.1.jar:git-Spigot-5340a52-27b8bf9]
+[22:19:32] [Thread-3/INFO]: Stopping server
