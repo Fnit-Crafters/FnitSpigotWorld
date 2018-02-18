@@ -1,16 +1,16 @@
 lastAccountName: villagesea
 timestamps:
-  login: 1517223689215
-  logout: 1517224359830
-  lastteleport: 1516031212845
-ipAddress: 133.202.2.252
+  login: 1518930629202
+  logout: 1518935541563
+  lastteleport: 1518931374624
+ipAddress: 133.202.4.119
 logoutlocation:
   world: world
-  x: -59.705526174262644
-  y: 70.0
-  z: -168.06687702044832
-  yaw: -11.90332
-  pitch: 8.700084
+  x: -1039.0080605529708
+  y: 97.14053322932335
+  z: -141.19704176795696
+  yaw: -330.41748
+  pitch: 32.549934
 homes:
   fnit:
     world: world
@@ -126,9 +126,9 @@ homes:
     pitch: 37.64988
 lastlocation:
   world: world
-  x: -962.4155619546458
-  y: 90.0
-  z: -141.90413925772668
-  yaw: -65.55088
-  pitch: 30.60009
+  x: 17.673696735655543
+  y: 80.46369138175085
+  z: -265.2405125550405
+  yaw: -294.30185
+  pitch: 48.59994
 money: '45.0'
