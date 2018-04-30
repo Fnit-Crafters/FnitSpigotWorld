@@ -1,2 +1,8 @@
-[02:27:21] [Craft Scheduler Thread - 2231/INFO]: [Vault] Checking for Updates ... 
-[02:27:22] [Craft Scheduler Thread - 2231/INFO]: [Vault] No new version available
+[01:55:52] [User Authenticator #2/INFO]: UUID of player TaikiFnit is 60e9cacc-18d2-4d8f-a25c-f7f86d88fd97
+[01:55:56] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[01:55:57] [Server thread/INFO]: TaikiFnit[/192.168.0.107:53497] logged in with entity id 8849 at ([world]-0.2911494809430979, 69.0, -161.953996547172)
+[01:56:14] [Server thread/INFO]: TaikiFnit lost connection: Disconnected
+[01:56:14] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[01:56:14] [Server thread/INFO]: TaikiFnit left the game
+[02:27:44] [Craft Scheduler Thread - 2483/INFO]: [Vault] Checking for Updates ... 
+[02:27:45] [Craft Scheduler Thread - 2483/INFO]: [Vault] No new version available
