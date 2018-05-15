@@ -1,3 +1,15 @@
-[02:31:06] [Craft Scheduler Thread - 5870/INFO]: [Vault] Checking for Updates ... 
-[02:31:07] [Craft Scheduler Thread - 5870/WARN]: [Vault] No files found, or Feed URL is bad.
-[02:31:07] [Craft Scheduler Thread - 5870/INFO]: [Vault] No new version available
+[01:13:51] [User Authenticator #3/INFO]: UUID of player villagesea is 5a8e25ba-9ac8-4ce3-9b9d-21706c46e5f0
+[01:13:56] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[01:13:56] [Server thread/INFO]: villagesea[/133.202.3.249:54885] logged in with entity id 9273 at ([world]-961.3000000119207, 91.0, -141.4248743472476)
+[01:14:04] [Server thread/INFO]: villagesea issued server command: /fly
+[01:14:36] [Server thread/INFO]: villagesea issued server command: /home
+[01:17:03] [Server thread/INFO]: villagesea issued server command: /home fnit
+[01:18:25] [Server thread/INFO]: villagesea issued server command: /money
+[01:25:26] [Server thread/WARN]: villagesea moved wrongly!
+[01:27:17] [Server thread/INFO]: villagesea issued server command: /treeassist toggle villagesea
+[02:15:37] [Server thread/INFO]: villagesea lost connection: Disconnected
+[02:15:44] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[02:15:44] [Server thread/INFO]: villagesea left the game
+[02:31:43] [Craft Scheduler Thread - 6160/INFO]: [Vault] Checking for Updates ... 
+[02:31:44] [Craft Scheduler Thread - 6160/WARN]: [Vault] No files found, or Feed URL is bad.
+[02:31:44] [Craft Scheduler Thread - 6160/INFO]: [Vault] No new version available
