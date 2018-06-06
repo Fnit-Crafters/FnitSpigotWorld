@@ -1,2 +1,16 @@
-[04:06:08] [Craft Scheduler Thread - 61647/INFO]: [Vault] Checking for Updates ... 
-[04:06:09] [Craft Scheduler Thread - 61647/INFO]: [Vault] No new version available
+[01:09:20] [User Authenticator #6/INFO]: UUID of player iqabc7145 is b55551ac-d189-45d6-b0aa-9a4b07abce0d
+[01:09:25] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[01:09:25] [Server thread/INFO]: iqabc7145[/153.214.157.205:54610] logged in with entity id 61871 at ([world]-200.7258550206247, 7.0, 85.6318363506316)
+[01:10:01] [Server thread/INFO]: iqabc7145 issued server command: /list
+[01:10:05] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[01:10:18] [Server thread/INFO]: iqabc7145 issued server command: /fly
+[01:12:30] [Server thread/INFO]: iqabc7145 issued server command: /bed
+[01:12:36] [Server thread/INFO]: iqabc7145 issued server command: /home bed
+[01:12:57] [Server thread/INFO]: iqabc7145 issued server command: /home s
+[01:26:53] [Server thread/INFO]: iqabc7145 issued server command: /list
+[01:32:18] [Server thread/INFO]: iqabc7145 issued server command: /home mansion
+[01:33:40] [Server thread/INFO]: iqabc7145 lost connection: Disconnected
+[01:33:44] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
+[01:33:44] [Server thread/INFO]: iqabc7145 left the game
+[04:10:44] [Craft Scheduler Thread - 64290/INFO]: [Vault] Checking for Updates ... 
+[04:10:45] [Craft Scheduler Thread - 64290/INFO]: [Vault] No new version available
