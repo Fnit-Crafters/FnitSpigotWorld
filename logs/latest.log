@@ -1,9 +1,2 @@
-[01:39:51] [User Authenticator #2/INFO]: UUID of player villagesea is 5a8e25ba-9ac8-4ce3-9b9d-21706c46e5f0
-[01:39:55] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[01:39:55] [Server thread/INFO]: villagesea[/133.202.4.146:50167] logged in with entity id 2713 at ([world]-133.28325087227304, 93.0, -33.45596885305376)
-[01:40:05] [Server thread/INFO]: villagesea issued server command: /fly
-[01:45:54] [Craft Scheduler Thread - 1305/INFO]: [Vault] Checking for Updates ... 
-[01:45:55] [Craft Scheduler Thread - 1305/INFO]: [Vault] No new version available
-[01:51:32] [Server thread/INFO]: villagesea lost connection: Disconnected
-[01:51:36] [Server thread/INFO]: [FMCSA] Success send user statistics via http.
-[01:51:36] [Server thread/INFO]: villagesea left the game
+[01:46:18] [Craft Scheduler Thread - 1564/INFO]: [Vault] Checking for Updates ... 
+[01:46:19] [Craft Scheduler Thread - 1564/INFO]: [Vault] No new version available
