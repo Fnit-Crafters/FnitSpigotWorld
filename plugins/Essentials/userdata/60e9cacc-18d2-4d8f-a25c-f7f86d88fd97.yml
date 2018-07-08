@@ -1,8 +1,8 @@
 lastAccountName: TaikiFnit
 timestamps:
-  login: 1529926492628
+  login: 1531043129045
   lastteleport: 1518695989931
-  logout: 1529926561798
+  logout: 1531044126331
 ipAddress: 110.67.110.234
 homes:
   h:
@@ -406,9 +406,9 @@ lastlocation:
   pitch: 39.900036
 logoutlocation:
   world: world
-  x: 40.30000001192092
+  x: 41.168186840058965
   y: 63.0
-  z: -152.3436657282949
-  yaw: -268.78406
-  pitch: 20.250006
+  z: -152.6985380873084
+  yaw: -95.38405
+  pitch: 23.55
 money: '750.0'
